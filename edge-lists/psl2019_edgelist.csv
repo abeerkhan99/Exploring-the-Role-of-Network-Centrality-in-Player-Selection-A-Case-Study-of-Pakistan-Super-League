@@ -1,0 +1,1587 @@
+Player1,Player2,Matches
+AB de Villiers,CS Delport,0.14285714285714285
+CS Delport,AB de Villiers,0.08333333333333333
+AB de Villiers,Faheem Ashraf,0.14285714285714285
+Faheem Ashraf,AB de Villiers,0.08333333333333333
+AB de Villiers,Hussain Talat,0.14285714285714285
+Hussain Talat,AB de Villiers,0.1
+AB de Villiers,Shadab Khan,0.14285714285714285
+Shadab Khan,AB de Villiers,0.08333333333333333
+AB de Villiers,Waqas Maqsood,0.14285714285714285
+Waqas Maqsood,AB de Villiers,0.5
+AP Devcich,CS Delport,0.2
+CS Delport,AP Devcich,0.08333333333333333
+AP Devcich,Faheem Ashraf,0.2
+Faheem Ashraf,AP Devcich,0.08333333333333333
+AP Devcich,Waqas Maqsood,0.2
+Waqas Maqsood,AP Devcich,0.5
+BRM Taylor,CS Delport,0.25
+CS Delport,BRM Taylor,0.08333333333333333
+BRM Taylor,Waqas Maqsood,0.25
+Waqas Maqsood,BRM Taylor,0.5
+CR Brathwaite,Faheem Ashraf,1.0
+Faheem Ashraf,CR Brathwaite,0.08333333333333333
+CR Brathwaite,Waqas Maqsood,1.0
+Waqas Maqsood,CR Brathwaite,0.5
+Fakhar Zaman,Faheem Ashraf,0.1
+Faheem Ashraf,Fakhar Zaman,0.08333333333333333
+Fakhar Zaman,Hussain Talat,0.1
+Hussain Talat,Fakhar Zaman,0.1
+Fakhar Zaman,Mohammad Sami,0.1
+Mohammad Sami,Fakhar Zaman,0.1111111111111111
+Fakhar Zaman,SR Patel,0.1
+SR Patel,Fakhar Zaman,0.125
+Fakhar Zaman,Shadab Khan,0.1
+Shadab Khan,Fakhar Zaman,0.08333333333333333
+Fakhar Zaman,Waqas Maqsood,0.1
+Waqas Maqsood,Fakhar Zaman,0.5
+Mohammad Hafeez,Faheem Ashraf,0.5
+Faheem Ashraf,Mohammad Hafeez,0.08333333333333333
+Mohammad Hafeez,Mohammad Sami,0.5
+Mohammad Sami,Mohammad Hafeez,0.1111111111111111
+Shaheen Shah Afridi,Mohammad Sami,0.125
+Mohammad Sami,Shaheen Shah Afridi,0.1111111111111111
+Sohail Akhtar,Faheem Ashraf,0.1
+Faheem Ashraf,Sohail Akhtar,0.08333333333333333
+Sohail Akhtar,Mohammad Sami,0.1
+Mohammad Sami,Sohail Akhtar,0.1111111111111111
+Sohail Akhtar,SR Patel,0.1
+SR Patel,Sohail Akhtar,0.125
+Sohail Akhtar,Shadab Khan,0.1
+Shadab Khan,Sohail Akhtar,0.08333333333333333
+Sohail Akhtar,Waqas Maqsood,0.1
+Waqas Maqsood,Sohail Akhtar,0.5
+Yasir Shah,Faheem Ashraf,0.2
+Faheem Ashraf,Yasir Shah,0.08333333333333333
+Yasir Shah,Mohammad Sami,0.2
+Mohammad Sami,Yasir Shah,0.1111111111111111
+Babar Azam,AD Russell,0.09090909090909091
+AD Russell,Babar Azam,0.25
+Babar Azam,CJ Green,0.09090909090909091
+CJ Green,Babar Azam,0.2
+Babar Azam,Junaid Khan,0.09090909090909091
+Junaid Khan,Babar Azam,0.14285714285714285
+Babar Azam,Mohammad Ilyas,0.09090909090909091
+Mohammad Ilyas,Babar Azam,0.125
+Babar Azam,Mohammad Irfan,0.09090909090909091
+Mohammad Irfan,Babar Azam,0.1111111111111111
+Babar Azam,Shahid Afridi,0.09090909090909091
+Shahid Afridi,Babar Azam,0.125
+CA Ingram,AD Russell,0.09090909090909091
+AD Russell,CA Ingram,0.25
+Imad Wasim,AD Russell,0.09090909090909091
+AD Russell,Imad Wasim,0.25
+Imad Wasim,CJ Green,0.09090909090909091
+CJ Green,Imad Wasim,0.2
+LS Livingstone,AD Russell,0.09090909090909091
+AD Russell,LS Livingstone,0.25
+LS Livingstone,CJ Green,0.09090909090909091
+CJ Green,LS Livingstone,0.2
+LS Livingstone,Junaid Khan,0.09090909090909091
+Junaid Khan,LS Livingstone,0.14285714285714285
+LS Livingstone,Mohammad Ilyas,0.09090909090909091
+Mohammad Ilyas,LS Livingstone,0.125
+LS Livingstone,Mohammad Irfan,0.09090909090909091
+Mohammad Irfan,LS Livingstone,0.1111111111111111
+LS Livingstone,Shahid Afridi,0.09090909090909091
+Shahid Afridi,LS Livingstone,0.125
+Mohammad Rizwan,Junaid Khan,0.2
+Junaid Khan,Mohammad Rizwan,0.14285714285714285
+RS Bopara,AD Russell,0.5
+AD Russell,RS Bopara,0.25
+RS Bopara,Junaid Khan,0.5
+Junaid Khan,RS Bopara,0.14285714285714285
+Sikandar Raza,AD Russell,0.3333333333333333
+AD Russell,Sikandar Raza,0.25
+Sikandar Raza,Junaid Khan,0.3333333333333333
+Junaid Khan,Sikandar Raza,0.14285714285714285
+Sohail Khan,Junaid Khan,0.2
+Junaid Khan,Sohail Khan,0.14285714285714285
+ADS Fletcher,Mohammad Irfan (4),0.25
+Mohammad Irfan (4),ADS Fletcher,0.3333333333333333
+ADS Fletcher,Mohammad Nawaz,0.5
+Mohammad Nawaz,ADS Fletcher,0.25
+KA Pollard,Fawad Ahmed,0.23076923076923078
+Fawad Ahmed,KA Pollard,0.3333333333333333
+KA Pollard,Ghulam Mudassar,0.07692307692307693
+Ghulam Mudassar,KA Pollard,0.2
+KA Pollard,Mohammad Irfan (4),0.07692307692307693
+Mohammad Irfan (4),KA Pollard,0.3333333333333333
+KA Pollard,Mohammad Nawaz,0.07692307692307693
+Mohammad Nawaz,KA Pollard,0.08333333333333333
+Kamran Akmal,Fawad Ahmed,0.15384615384615385
+Fawad Ahmed,Kamran Akmal,0.25
+Kamran Akmal,Ghulam Mudassar,0.07692307692307693
+Ghulam Mudassar,Kamran Akmal,0.2
+Kamran Akmal,Mohammad Irfan (4),0.07692307692307693
+Mohammad Irfan (4),Kamran Akmal,0.3333333333333333
+Kamran Akmal,Mohammad Nawaz,0.23076923076923078
+Mohammad Nawaz,Kamran Akmal,0.3333333333333333
+Kamran Akmal,Sohail Tanvir,0.23076923076923078
+Sohail Tanvir,Kamran Akmal,0.3333333333333333
+LA Dawson,Ghulam Mudassar,0.09090909090909091
+Ghulam Mudassar,LA Dawson,0.2
+LA Dawson,Mohammad Irfan (4),0.09090909090909091
+Mohammad Irfan (4),LA Dawson,0.3333333333333333
+LA Dawson,Mohammad Nawaz,0.09090909090909091
+Mohammad Nawaz,LA Dawson,0.08333333333333333
+LA Dawson,Sohail Tanvir,0.09090909090909091
+Sohail Tanvir,LA Dawson,0.08333333333333333
+Misbah-ul-Haq,Fawad Ahmed,0.3333333333333333
+Fawad Ahmed,Misbah-ul-Haq,0.08333333333333333
+Misbah-ul-Haq,Ghulam Mudassar,0.3333333333333333
+Ghulam Mudassar,Misbah-ul-Haq,0.2
+Misbah-ul-Haq,Mohammad Irfan (4),0.3333333333333333
+Mohammad Irfan (4),Misbah-ul-Haq,0.3333333333333333
+Misbah-ul-Haq,Mohammad Nawaz,0.3333333333333333
+Mohammad Nawaz,Misbah-ul-Haq,0.08333333333333333
+Misbah-ul-Haq,Sohail Tanvir,0.3333333333333333
+Sohail Tanvir,Misbah-ul-Haq,0.08333333333333333
+Sohaib Maqsood,Fawad Ahmed,0.4
+Fawad Ahmed,Sohaib Maqsood,0.25
+Sohaib Maqsood,Ghulam Mudassar,0.2
+Ghulam Mudassar,Sohaib Maqsood,0.2
+Sohaib Maqsood,Mohammad Irfan (4),0.2
+Mohammad Irfan (4),Sohaib Maqsood,0.3333333333333333
+Sohaib Maqsood,Mohammad Nawaz,0.4
+Mohammad Nawaz,Sohaib Maqsood,0.25
+Sohaib Maqsood,Sohail Tanvir,0.4
+Sohail Tanvir,Sohaib Maqsood,0.25
+Asif Ali,Junaid Khan,0.08333333333333333
+Junaid Khan,Asif Ali,0.14285714285714285
+Asif Ali,Shahid Afridi,0.16666666666666666
+Shahid Afridi,Asif Ali,0.375
+CS Delport,Ali Shafiq,0.08333333333333333
+Ali Shafiq,CS Delport,0.5
+CS Delport,Mohammad Irfan,0.08333333333333333
+Mohammad Irfan,CS Delport,0.1111111111111111
+Faheem Ashraf,AD Russell,0.08333333333333333
+AD Russell,Faheem Ashraf,0.25
+Faheem Ashraf,Ali Shafiq,0.08333333333333333
+Ali Shafiq,Faheem Ashraf,0.5
+Faheem Ashraf,Junaid Khan,0.16666666666666666
+Junaid Khan,Faheem Ashraf,0.42857142857142855
+Hussain Talat,AD Russell,0.1
+AD Russell,Hussain Talat,0.25
+Hussain Talat,Ali Shafiq,0.1
+Ali Shafiq,Hussain Talat,0.5
+Hussain Talat,Junaid Khan,0.2
+Junaid Khan,Hussain Talat,0.42857142857142855
+Hussain Talat,Mohammad Irfan,0.2
+Mohammad Irfan,Hussain Talat,0.3333333333333333
+Hussain Talat,Shahid Afridi,0.2
+Shahid Afridi,Hussain Talat,0.375
+L Ronchi,AD Russell,0.08333333333333333
+AD Russell,L Ronchi,0.25
+L Ronchi,Ali Shafiq,0.08333333333333333
+Ali Shafiq,L Ronchi,0.5
+L Ronchi,CJ Green,0.08333333333333333
+CJ Green,L Ronchi,0.2
+L Ronchi,Mohammad Irfan,0.16666666666666666
+Mohammad Irfan,L Ronchi,0.3333333333333333
+L Ronchi,Shahid Afridi,0.08333333333333333
+Shahid Afridi,L Ronchi,0.125
+PD Salt,Junaid Khan,0.16666666666666666
+Junaid Khan,PD Salt,0.14285714285714285
+PD Salt,Shahid Afridi,0.16666666666666666
+Shahid Afridi,PD Salt,0.125
+Rizwan Hussain,Ali Shafiq,0.25
+Ali Shafiq,Rizwan Hussain,0.5
+Rizwan Hussain,CJ Green,0.25
+CJ Green,Rizwan Hussain,0.2
+Rizwan Hussain,Mohammad Irfan,0.25
+Mohammad Irfan,Rizwan Hussain,0.1111111111111111
+SR Patel,AD Russell,0.125
+AD Russell,SR Patel,0.25
+SR Patel,Ali Shafiq,0.125
+Ali Shafiq,SR Patel,0.5
+SR Patel,Junaid Khan,0.25
+Junaid Khan,SR Patel,0.42857142857142855
+SR Patel,Mohammad Irfan,0.25
+Mohammad Irfan,SR Patel,0.3333333333333333
+SR Patel,Shahid Afridi,0.25
+Shahid Afridi,SR Patel,0.375
+Shadab Khan,Ali Shafiq,0.08333333333333333
+Ali Shafiq,Shadab Khan,0.5
+Shadab Khan,Junaid Khan,0.08333333333333333
+Junaid Khan,Shadab Khan,0.14285714285714285
+Shadab Khan,Mohammad Irfan,0.16666666666666666
+Mohammad Irfan,Shadab Khan,0.3333333333333333
+Shadab Khan,Shahid Afridi,0.16666666666666666
+Shahid Afridi,Shadab Khan,0.375
+AB de Villiers,Sikandar Raza,0.14285714285714285
+Sikandar Raza,AB de Villiers,0.3333333333333333
+AB de Villiers,Umer Khan,0.2857142857142857
+Umer Khan,AB de Villiers,0.2727272727272727
+AP Devcich,Imad Wasim,0.2
+Imad Wasim,AP Devcich,0.09090909090909091
+AP Devcich,Mohammad Amir,0.2
+Mohammad Amir,AP Devcich,0.1111111111111111
+AP Devcich,Sikandar Raza,0.2
+Sikandar Raza,AP Devcich,0.3333333333333333
+AP Devcich,Sohail Khan,0.2
+Sohail Khan,AP Devcich,0.2
+AP Devcich,Umer Khan,0.2
+Umer Khan,AP Devcich,0.09090909090909091
+AP Devcich,Usman Shinwari,0.2
+Usman Shinwari,AP Devcich,0.1111111111111111
+BRM Taylor,Imad Wasim,0.25
+Imad Wasim,BRM Taylor,0.09090909090909091
+BRM Taylor,Mohammad Amir,0.25
+Mohammad Amir,BRM Taylor,0.1111111111111111
+BRM Taylor,Sohail Khan,0.25
+Sohail Khan,BRM Taylor,0.2
+BRM Taylor,Usman Shinwari,0.25
+Usman Shinwari,BRM Taylor,0.1111111111111111
+Fakhar Zaman,Imad Wasim,0.2
+Imad Wasim,Fakhar Zaman,0.2727272727272727
+Fakhar Zaman,Mohammad Amir,0.2
+Mohammad Amir,Fakhar Zaman,0.3333333333333333
+Fakhar Zaman,Sikandar Raza,0.1
+Sikandar Raza,Fakhar Zaman,0.3333333333333333
+Fakhar Zaman,Sohail Khan,0.1
+Sohail Khan,Fakhar Zaman,0.2
+Fakhar Zaman,Umer Khan,0.1
+Umer Khan,Fakhar Zaman,0.09090909090909091
+Fakhar Zaman,Usman Shinwari,0.1
+Usman Shinwari,Fakhar Zaman,0.1111111111111111
+GC Viljoen,Mohammad Amir,0.5
+Mohammad Amir,GC Viljoen,0.1111111111111111
+GC Viljoen,Sohail Khan,0.5
+Sohail Khan,GC Viljoen,0.2
+Mohammad Hafeez,Imad Wasim,0.5
+Imad Wasim,Mohammad Hafeez,0.09090909090909091
+Mohammad Hafeez,Umer Khan,0.5
+Umer Khan,Mohammad Hafeez,0.09090909090909091
+Sohail Akhtar,Imad Wasim,0.1
+Imad Wasim,Sohail Akhtar,0.09090909090909091
+Sohail Akhtar,Mohammad Amir,0.2
+Mohammad Amir,Sohail Akhtar,0.3333333333333333
+Sohail Akhtar,Sohail Khan,0.1
+Sohail Khan,Sohail Akhtar,0.2
+Sohail Akhtar,Umer Khan,0.2
+Umer Khan,Sohail Akhtar,0.2727272727272727
+Sohail Akhtar,Usman Shinwari,0.1
+Usman Shinwari,Sohail Akhtar,0.1111111111111111
+Yasir Shah,Mohammad Amir,0.2
+Mohammad Amir,Yasir Shah,0.1111111111111111
+Yasir Shah,Sohail Khan,0.2
+Sohail Khan,Yasir Shah,0.2
+Asif Ali,DR Smith,0.08333333333333333
+DR Smith,Asif Ali,0.2
+Asif Ali,Fawad Ahmed,0.08333333333333333
+Fawad Ahmed,Asif Ali,0.08333333333333333
+Asif Ali,Ghulam Mudassar,0.08333333333333333
+Ghulam Mudassar,Asif Ali,0.2
+Asif Ali,Mohammad Irfan (4),0.08333333333333333
+Mohammad Irfan (4),Asif Ali,0.3333333333333333
+Asif Ali,Mohammad Nawaz,0.08333333333333333
+Mohammad Nawaz,Asif Ali,0.08333333333333333
+Asif Ali,Sohail Tanvir,0.08333333333333333
+Sohail Tanvir,Asif Ali,0.08333333333333333
+CS Delport,Fawad Ahmed,0.08333333333333333
+Fawad Ahmed,CS Delport,0.08333333333333333
+CS Delport,Ghulam Mudassar,0.08333333333333333
+Ghulam Mudassar,CS Delport,0.2
+CS Delport,Mohammad Irfan (4),0.08333333333333333
+Mohammad Irfan (4),CS Delport,0.3333333333333333
+CS Delport,Sohail Tanvir,0.08333333333333333
+Sohail Tanvir,CS Delport,0.08333333333333333
+Faheem Ashraf,Fawad Ahmed,0.25
+Fawad Ahmed,Faheem Ashraf,0.16666666666666666
+Faheem Ashraf,Mohammad Nawaz,0.08333333333333333
+Mohammad Nawaz,Faheem Ashraf,0.08333333333333333
+Hussain Talat,Fawad Ahmed,0.1
+Fawad Ahmed,Hussain Talat,0.08333333333333333
+Hussain Talat,Ghulam Mudassar,0.1
+Ghulam Mudassar,Hussain Talat,0.2
+Hussain Talat,Mohammad Irfan (4),0.1
+Mohammad Irfan (4),Hussain Talat,0.3333333333333333
+Hussain Talat,Mohammad Nawaz,0.1
+Mohammad Nawaz,Hussain Talat,0.08333333333333333
+L Ronchi,Sohail Tanvir,0.08333333333333333
+Sohail Tanvir,L Ronchi,0.08333333333333333
+Mohammad Sami,Ghulam Mudassar,0.1111111111111111
+Ghulam Mudassar,Mohammad Sami,0.2
+Mohammad Sami,Sohail Tanvir,0.1111111111111111
+Sohail Tanvir,Mohammad Sami,0.08333333333333333
+Rizwan Hussain,Ghulam Mudassar,0.25
+Ghulam Mudassar,Rizwan Hussain,0.2
+Rizwan Hussain,Mohammad Nawaz,0.25
+Mohammad Nawaz,Rizwan Hussain,0.08333333333333333
+Rizwan Hussain,Sohail Tanvir,0.25
+Sohail Tanvir,Rizwan Hussain,0.08333333333333333
+SR Patel,Ghulam Mudassar,0.125
+Ghulam Mudassar,SR Patel,0.2
+SR Patel,Mohammad Irfan (4),0.125
+Mohammad Irfan (4),SR Patel,0.3333333333333333
+SR Patel,Sohail Tanvir,0.125
+Sohail Tanvir,SR Patel,0.08333333333333333
+Shadab Khan,Sohail Tanvir,0.08333333333333333
+Sohail Tanvir,Shadab Khan,0.08333333333333333
+WD Parnell,Fawad Ahmed,0.3333333333333333
+Fawad Ahmed,WD Parnell,0.08333333333333333
+WD Parnell,Ghulam Mudassar,0.3333333333333333
+Ghulam Mudassar,WD Parnell,0.2
+WD Parnell,Mohammad Irfan (4),0.3333333333333333
+Mohammad Irfan (4),WD Parnell,0.3333333333333333
+WD Parnell,Mohammad Nawaz,0.3333333333333333
+Mohammad Nawaz,WD Parnell,0.08333333333333333
+WD Parnell,Sohail Tanvir,0.3333333333333333
+Sohail Tanvir,WD Parnell,0.08333333333333333
+AB de Villiers,Hasan Ali,0.14285714285714285
+Hasan Ali,AB de Villiers,0.07692307692307693
+AB de Villiers,Umaid Asif,0.14285714285714285
+Umaid Asif,AB de Villiers,0.125
+AP Devcich,Hasan Ali,0.4
+Hasan Ali,AP Devcich,0.23076923076923078
+AP Devcich,Ibtisam Sheikh,0.2
+Ibtisam Sheikh,AP Devcich,0.25
+AP Devcich,KA Pollard,0.2
+KA Pollard,AP Devcich,0.07692307692307693
+AP Devcich,Umaid Asif,0.2
+Umaid Asif,AP Devcich,0.125
+AP Devcich,Wahab Riaz,0.2
+Wahab Riaz,AP Devcich,0.07692307692307693
+Agha Salman,Ibtisam Sheikh,0.3333333333333333
+Ibtisam Sheikh,Agha Salman,0.25
+Agha Salman,KA Pollard,0.3333333333333333
+KA Pollard,Agha Salman,0.07692307692307693
+Agha Salman,Wahab Riaz,0.3333333333333333
+Wahab Riaz,Agha Salman,0.07692307692307693
+BRM Taylor,Hasan Ali,0.25
+Hasan Ali,BRM Taylor,0.07692307692307693
+Fakhar Zaman,Hasan Ali,0.2
+Hasan Ali,Fakhar Zaman,0.23076923076923078
+Fakhar Zaman,Umaid Asif,0.1
+Umaid Asif,Fakhar Zaman,0.125
+GC Viljoen,Ibtisam Sheikh,0.5
+Ibtisam Sheikh,GC Viljoen,0.25
+GC Viljoen,KA Pollard,0.5
+KA Pollard,GC Viljoen,0.07692307692307693
+Haris Rauf,Wahab Riaz,0.1
+Wahab Riaz,Haris Rauf,0.07692307692307693
+Hassan Khan,Ibtisam Sheikh,0.5
+Ibtisam Sheikh,Hassan Khan,0.25
+Hassan Khan,KA Pollard,0.5
+KA Pollard,Hassan Khan,0.07692307692307693
+Rahat Ali,Hasan Ali,0.14285714285714285
+Hasan Ali,Rahat Ali,0.07692307692307693
+Shaheen Shah Afridi,Hasan Ali,0.125
+Hasan Ali,Shaheen Shah Afridi,0.07692307692307693
+Shaheen Shah Afridi,Ibtisam Sheikh,0.125
+Ibtisam Sheikh,Shaheen Shah Afridi,0.25
+Shaheen Shah Afridi,Wahab Riaz,0.25
+Wahab Riaz,Shaheen Shah Afridi,0.23076923076923078
+Sohail Akhtar,Hasan Ali,0.1
+Hasan Ali,Sohail Akhtar,0.07692307692307693
+Sohail Akhtar,Umaid Asif,0.1
+Umaid Asif,Sohail Akhtar,0.125
+AD Russell,Ghulam Mudassar,0.25
+Ghulam Mudassar,AD Russell,0.2
+AD Russell,Mohammad Irfan (4),0.25
+Mohammad Irfan (4),AD Russell,0.3333333333333333
+AD Russell,Sohail Tanvir,0.25
+Sohail Tanvir,AD Russell,0.08333333333333333
+DT Christian,Fawad Ahmed,0.125
+Fawad Ahmed,DT Christian,0.08333333333333333
+DT Christian,Ghulam Mudassar,0.125
+Ghulam Mudassar,DT Christian,0.2
+DT Christian,Mohammad Irfan (4),0.125
+Mohammad Irfan (4),DT Christian,0.3333333333333333
+DT Christian,Mohammad Nawaz,0.125
+Mohammad Nawaz,DT Christian,0.08333333333333333
+DT Christian,Sohail Tanvir,0.125
+Sohail Tanvir,DT Christian,0.08333333333333333
+JM Vince,Mohammad Irfan (4),0.125
+Mohammad Irfan (4),JM Vince,0.3333333333333333
+JM Vince,Mohammad Nawaz,0.25
+Mohammad Nawaz,JM Vince,0.25
+JM Vince,Sohail Tanvir,0.25
+Sohail Tanvir,JM Vince,0.25
+LJ Evans,Fawad Ahmed,0.2
+Fawad Ahmed,LJ Evans,0.08333333333333333
+LJ Evans,Ghulam Mudassar,0.2
+Ghulam Mudassar,LJ Evans,0.2
+LJ Evans,Mohammad Irfan (4),0.2
+Mohammad Irfan (4),LJ Evans,0.3333333333333333
+LJ Evans,Mohammad Nawaz,0.2
+Mohammad Nawaz,LJ Evans,0.08333333333333333
+LJ Evans,Sohail Tanvir,0.2
+Sohail Tanvir,LJ Evans,0.08333333333333333
+Nauman Ali,Ghulam Mudassar,0.25
+Ghulam Mudassar,Nauman Ali,0.2
+Shahid Afridi,Mohammad Irfan (4),0.125
+Mohammad Irfan (4),Shahid Afridi,0.3333333333333333
+Shakeel Ansar,Ghulam Mudassar,1.0
+Ghulam Mudassar,Shakeel Ansar,0.2
+Shakeel Ansar,Sohail Tanvir,1.0
+Sohail Tanvir,Shakeel Ansar,0.08333333333333333
+Shan Masood,Fawad Ahmed,0.25
+Fawad Ahmed,Shan Masood,0.08333333333333333
+Shan Masood,Mohammad Irfan (4),0.25
+Mohammad Irfan (4),Shan Masood,0.3333333333333333
+Shan Masood,Mohammad Nawaz,0.25
+Mohammad Nawaz,Shan Masood,0.08333333333333333
+Shan Masood,Sohail Tanvir,0.25
+Sohail Tanvir,Shan Masood,0.08333333333333333
+Shoaib Malik,Fawad Ahmed,0.2
+Fawad Ahmed,Shoaib Malik,0.25
+Shoaib Malik,Ghulam Mudassar,0.1
+Ghulam Mudassar,Shoaib Malik,0.2
+Shoaib Malik,Mohammad Irfan (4),0.1
+Mohammad Irfan (4),Shoaib Malik,0.3333333333333333
+Shoaib Malik,Mohammad Nawaz,0.2
+Mohammad Nawaz,Shoaib Malik,0.25
+Shoaib Malik,Sohail Tanvir,0.2
+Sohail Tanvir,Shoaib Malik,0.25
+DJG Sammy,Aamer Yamin,0.07692307692307693
+Aamer Yamin,DJG Sammy,0.125
+DJG Sammy,Mohammad Amir,0.15384615384615385
+Mohammad Amir,DJG Sammy,0.3333333333333333
+DJG Sammy,Usman Shinwari,0.07692307692307693
+Usman Shinwari,DJG Sammy,0.1111111111111111
+Hasan Ali,Aamer Yamin,0.07692307692307693
+Aamer Yamin,Hasan Ali,0.125
+Hasan Ali,Mohammad Amir,0.07692307692307693
+Mohammad Amir,Hasan Ali,0.1111111111111111
+Imam-ul-Haq,Aamer Yamin,0.08333333333333333
+Aamer Yamin,Imam-ul-Haq,0.125
+Imam-ul-Haq,Imad Wasim,0.16666666666666666
+Imad Wasim,Imam-ul-Haq,0.2727272727272727
+Imam-ul-Haq,Mohammad Amir,0.16666666666666666
+Mohammad Amir,Imam-ul-Haq,0.3333333333333333
+Imam-ul-Haq,Sikandar Raza,0.08333333333333333
+Sikandar Raza,Imam-ul-Haq,0.3333333333333333
+Imam-ul-Haq,Usman Shinwari,0.16666666666666666
+Usman Shinwari,Imam-ul-Haq,0.3333333333333333
+KA Pollard,Imad Wasim,0.07692307692307693
+Imad Wasim,KA Pollard,0.09090909090909091
+KA Pollard,Sikandar Raza,0.07692307692307693
+Sikandar Raza,KA Pollard,0.3333333333333333
+Kamran Akmal,Aamer Yamin,0.07692307692307693
+Aamer Yamin,Kamran Akmal,0.125
+Kamran Akmal,Mohammad Amir,0.15384615384615385
+Mohammad Amir,Kamran Akmal,0.3333333333333333
+LA Dawson,Aamer Yamin,0.09090909090909091
+Aamer Yamin,LA Dawson,0.125
+LA Dawson,Imad Wasim,0.18181818181818182
+Imad Wasim,LA Dawson,0.2727272727272727
+LA Dawson,Mohammad Amir,0.18181818181818182
+Mohammad Amir,LA Dawson,0.3333333333333333
+LA Dawson,Sikandar Raza,0.09090909090909091
+Sikandar Raza,LA Dawson,0.3333333333333333
+LA Dawson,Usman Shinwari,0.09090909090909091
+Usman Shinwari,LA Dawson,0.1111111111111111
+Umar Amin,Aamer Yamin,0.09090909090909091
+Aamer Yamin,Umar Amin,0.125
+Umar Amin,Imad Wasim,0.09090909090909091
+Imad Wasim,Umar Amin,0.09090909090909091
+Umar Amin,Mohammad Amir,0.09090909090909091
+Mohammad Amir,Umar Amin,0.1111111111111111
+Umar Amin,Sikandar Raza,0.09090909090909091
+Sikandar Raza,Umar Amin,0.3333333333333333
+Umar Amin,Usman Shinwari,0.09090909090909091
+Usman Shinwari,Umar Amin,0.1111111111111111
+WL Madsen,Sikandar Raza,0.5
+Sikandar Raza,WL Madsen,0.3333333333333333
+Wahab Riaz,Mohammad Amir,0.15384615384615385
+Mohammad Amir,Wahab Riaz,0.3333333333333333
+Wahab Riaz,Usman Shinwari,0.15384615384615385
+Usman Shinwari,Wahab Riaz,0.3333333333333333
+AD Russell,S Lamichhane,0.25
+S Lamichhane,AD Russell,0.14285714285714285
+AD Russell,Shaheen Shah Afridi,0.25
+Shaheen Shah Afridi,AD Russell,0.125
+DT Christian,D Wiese,0.125
+D Wiese,DT Christian,0.14285714285714285
+DT Christian,Haris Rauf,0.125
+Haris Rauf,DT Christian,0.1
+DT Christian,S Lamichhane,0.125
+S Lamichhane,DT Christian,0.14285714285714285
+DT Christian,Shaheen Shah Afridi,0.125
+Shaheen Shah Afridi,DT Christian,0.125
+Hammad Azam,Haris Rauf,0.2
+Haris Rauf,Hammad Azam,0.1
+JM Vince,D Wiese,0.125
+D Wiese,JM Vince,0.14285714285714285
+JM Vince,Haris Rauf,0.125
+Haris Rauf,JM Vince,0.1
+JM Vince,Rahat Ali,0.125
+Rahat Ali,JM Vince,0.14285714285714285
+JM Vince,S Lamichhane,0.125
+S Lamichhane,JM Vince,0.14285714285714285
+JM Vince,Shaheen Shah Afridi,0.125
+Shaheen Shah Afridi,JM Vince,0.125
+LJ Evans,D Wiese,0.2
+D Wiese,LJ Evans,0.14285714285714285
+LJ Evans,Haris Rauf,0.2
+Haris Rauf,LJ Evans,0.1
+LJ Evans,S Lamichhane,0.2
+S Lamichhane,LJ Evans,0.14285714285714285
+LJ Evans,Shaheen Shah Afridi,0.2
+Shaheen Shah Afridi,LJ Evans,0.125
+Mohammad Irfan (5),Haris Rauf,0.5
+Haris Rauf,Mohammad Irfan (5),0.1
+Shoaib Malik,Rahat Ali,0.1
+Rahat Ali,Shoaib Malik,0.14285714285714285
+Shoaib Malik,S Lamichhane,0.1
+S Lamichhane,Shoaib Malik,0.14285714285714285
+Umar Siddiq,D Wiese,0.14285714285714285
+D Wiese,Umar Siddiq,0.14285714285714285
+Umar Siddiq,Haris Rauf,0.14285714285714285
+Haris Rauf,Umar Siddiq,0.1
+Umar Siddiq,Rahat Ali,0.14285714285714285
+Rahat Ali,Umar Siddiq,0.14285714285714285
+Umar Siddiq,S Lamichhane,0.14285714285714285
+S Lamichhane,Umar Siddiq,0.14285714285714285
+Umar Siddiq,Shaheen Shah Afridi,0.14285714285714285
+Shaheen Shah Afridi,Umar Siddiq,0.125
+Asif Ali,Hasan Ali,0.16666666666666666
+Hasan Ali,Asif Ali,0.23076923076923078
+Asif Ali,Sameen Gul,0.08333333333333333
+Sameen Gul,Asif Ali,0.14285714285714285
+CS Delport,Hasan Ali,0.16666666666666666
+Hasan Ali,CS Delport,0.23076923076923078
+CS Delport,KA Pollard,0.4166666666666667
+KA Pollard,CS Delport,0.3076923076923077
+CS Delport,LA Dawson,0.16666666666666666
+LA Dawson,CS Delport,0.2727272727272727
+CS Delport,Umaid Asif,0.16666666666666666
+Umaid Asif,CS Delport,0.375
+CS Delport,Wahab Riaz,0.16666666666666666
+Wahab Riaz,CS Delport,0.23076923076923078
+Faheem Ashraf,Sameen Gul,0.08333333333333333
+Sameen Gul,Faheem Ashraf,0.14285714285714285
+Faheem Ashraf,Umaid Asif,0.08333333333333333
+Umaid Asif,Faheem Ashraf,0.125
+Hussain Talat,KA Pollard,0.1
+KA Pollard,Hussain Talat,0.07692307692307693
+IR Bell,Hasan Ali,1.0
+Hasan Ali,IR Bell,0.07692307692307693
+IR Bell,KA Pollard,1.0
+KA Pollard,IR Bell,0.07692307692307693
+IR Bell,LA Dawson,1.0
+LA Dawson,IR Bell,0.09090909090909091
+IR Bell,Sameen Gul,1.0
+Sameen Gul,IR Bell,0.14285714285714285
+IR Bell,Umaid Asif,1.0
+Umaid Asif,IR Bell,0.125
+IR Bell,Wahab Riaz,1.0
+Wahab Riaz,IR Bell,0.07692307692307693
+L Ronchi,Hasan Ali,0.16666666666666666
+Hasan Ali,L Ronchi,0.23076923076923078
+L Ronchi,Sameen Gul,0.08333333333333333
+Sameen Gul,L Ronchi,0.14285714285714285
+L Ronchi,Umaid Asif,0.08333333333333333
+Umaid Asif,L Ronchi,0.125
+Mohammad Sami,Hasan Ali,0.1111111111111111
+Hasan Ali,Mohammad Sami,0.07692307692307693
+Mohammad Sami,Wahab Riaz,0.2222222222222222
+Wahab Riaz,Mohammad Sami,0.23076923076923078
+Muhammad Musa,Wahab Riaz,0.14285714285714285
+Wahab Riaz,Muhammad Musa,0.07692307692307693
+SR Patel,Hasan Ali,0.125
+Hasan Ali,SR Patel,0.07692307692307693
+SR Patel,Wahab Riaz,0.125
+Wahab Riaz,SR Patel,0.07692307692307693
+Sahibzada Farhan,Hasan Ali,0.3333333333333333
+Hasan Ali,Sahibzada Farhan,0.07692307692307693
+Sahibzada Farhan,Sameen Gul,0.3333333333333333
+Sameen Gul,Sahibzada Farhan,0.14285714285714285
+Sahibzada Farhan,Umaid Asif,0.3333333333333333
+Umaid Asif,Sahibzada Farhan,0.125
+Sahibzada Farhan,Wahab Riaz,0.3333333333333333
+Wahab Riaz,Sahibzada Farhan,0.07692307692307693
+Shadab Khan,Umaid Asif,0.08333333333333333
+Umaid Asif,Shadab Khan,0.125
+Shadab Khan,Wahab Riaz,0.16666666666666666
+Wahab Riaz,Shadab Khan,0.23076923076923078
+AB de Villiers,Anwar Ali,0.14285714285714285
+Anwar Ali,AB de Villiers,0.3333333333333333
+AB de Villiers,Fawad Ahmed,0.14285714285714285
+Fawad Ahmed,AB de Villiers,0.08333333333333333
+AB de Villiers,Ghulam Mudassar,0.14285714285714285
+Ghulam Mudassar,AB de Villiers,0.2
+AB de Villiers,Mohammad Nawaz,0.14285714285714285
+Mohammad Nawaz,AB de Villiers,0.08333333333333333
+AB de Villiers,Sohail Tanvir,0.14285714285714285
+Sohail Tanvir,AB de Villiers,0.08333333333333333
+CJ Anderson,Anwar Ali,0.3333333333333333
+Anwar Ali,CJ Anderson,0.3333333333333333
+CJ Anderson,Fawad Ahmed,0.3333333333333333
+Fawad Ahmed,CJ Anderson,0.08333333333333333
+CJ Anderson,Ghulam Mudassar,0.3333333333333333
+Ghulam Mudassar,CJ Anderson,0.2
+CJ Anderson,Mohammad Nawaz,0.3333333333333333
+Mohammad Nawaz,CJ Anderson,0.08333333333333333
+D Wiese,Anwar Ali,0.14285714285714285
+Anwar Ali,D Wiese,0.3333333333333333
+D Wiese,Fawad Ahmed,0.14285714285714285
+Fawad Ahmed,D Wiese,0.08333333333333333
+D Wiese,Mohammad Nawaz,0.14285714285714285
+Mohammad Nawaz,D Wiese,0.08333333333333333
+D Wiese,Sohail Tanvir,0.14285714285714285
+Sohail Tanvir,D Wiese,0.08333333333333333
+Fakhar Zaman,Mohammad Nawaz,0.1
+Mohammad Nawaz,Fakhar Zaman,0.08333333333333333
+Fakhar Zaman,Sohail Tanvir,0.1
+Sohail Tanvir,Fakhar Zaman,0.08333333333333333
+Gauhar Ali,Anwar Ali,0.3333333333333333
+Anwar Ali,Gauhar Ali,0.3333333333333333
+Gauhar Ali,Ghulam Mudassar,0.3333333333333333
+Ghulam Mudassar,Gauhar Ali,0.2
+Gauhar Ali,Sohail Tanvir,0.3333333333333333
+Sohail Tanvir,Gauhar Ali,0.08333333333333333
+S Lamichhane,Ghulam Mudassar,0.14285714285714285
+Ghulam Mudassar,S Lamichhane,0.2
+Salman Butt,Anwar Ali,0.5
+Anwar Ali,Salman Butt,0.3333333333333333
+Salman Butt,Ghulam Mudassar,0.5
+Ghulam Mudassar,Salman Butt,0.2
+Sohail Akhtar,Anwar Ali,0.1
+Anwar Ali,Sohail Akhtar,0.3333333333333333
+Sohail Akhtar,Ghulam Mudassar,0.1
+Ghulam Mudassar,Sohail Akhtar,0.2
+Sohail Akhtar,Mohammad Nawaz,0.1
+Mohammad Nawaz,Sohail Akhtar,0.08333333333333333
+Sohail Akhtar,Sohail Tanvir,0.1
+Sohail Tanvir,Sohail Akhtar,0.08333333333333333
+Yasir Shah,Ghulam Mudassar,0.2
+Ghulam Mudassar,Yasir Shah,0.2
+Yasir Shah,Sohail Tanvir,0.6
+Sohail Tanvir,Yasir Shah,0.16666666666666666
+Aamer Yamin,Faheem Ashraf,0.375
+Faheem Ashraf,Aamer Yamin,0.3333333333333333
+Aamer Yamin,Muhammad Musa,0.125
+Muhammad Musa,Aamer Yamin,0.14285714285714285
+Aamer Yamin,Rumman Raees,0.125
+Rumman Raees,Aamer Yamin,0.125
+Aamer Yamin,WD Parnell,0.125
+WD Parnell,Aamer Yamin,0.3333333333333333
+Awais Zia,Muhammad Musa,0.5
+Muhammad Musa,Awais Zia,0.14285714285714285
+Awais Zia,Rumman Raees,0.5
+Rumman Raees,Awais Zia,0.125
+BR Dunk,Faheem Ashraf,0.42857142857142855
+Faheem Ashraf,BR Dunk,0.3333333333333333
+BR Dunk,Muhammad Musa,0.2857142857142857
+Muhammad Musa,BR Dunk,0.42857142857142855
+BR Dunk,Rumman Raees,0.42857142857142855
+Rumman Raees,BR Dunk,0.5
+BR Dunk,SR Patel,0.14285714285714285
+SR Patel,BR Dunk,0.125
+BR Dunk,Shadab Khan,0.2857142857142857
+Shadab Khan,BR Dunk,0.25
+BR Dunk,WD Parnell,0.14285714285714285
+WD Parnell,BR Dunk,0.3333333333333333
+Babar Azam,Faheem Ashraf,0.2727272727272727
+Faheem Ashraf,Babar Azam,0.3333333333333333
+Babar Azam,Muhammad Musa,0.2727272727272727
+Muhammad Musa,Babar Azam,0.5714285714285714
+Babar Azam,Rumman Raees,0.2727272727272727
+Rumman Raees,Babar Azam,0.5
+Babar Azam,SR Patel,0.18181818181818182
+SR Patel,Babar Azam,0.375
+Babar Azam,Shadab Khan,0.2727272727272727
+Shadab Khan,Babar Azam,0.3333333333333333
+C Munro,Rumman Raees,0.375
+Rumman Raees,C Munro,0.5
+CA Ingram,Faheem Ashraf,0.18181818181818182
+Faheem Ashraf,CA Ingram,0.25
+CA Ingram,Muhammad Musa,0.18181818181818182
+Muhammad Musa,CA Ingram,0.42857142857142855
+Imad Wasim,Faheem Ashraf,0.18181818181818182
+Faheem Ashraf,Imad Wasim,0.25
+LS Livingstone,Faheem Ashraf,0.2727272727272727
+Faheem Ashraf,LS Livingstone,0.3333333333333333
+LS Livingstone,Muhammad Musa,0.2727272727272727
+Muhammad Musa,LS Livingstone,0.5714285714285714
+LS Livingstone,SR Patel,0.18181818181818182
+SR Patel,LS Livingstone,0.375
+LS Livingstone,Shadab Khan,0.2727272727272727
+Shadab Khan,LS Livingstone,0.3333333333333333
+CJ Green,Hasan Ali,0.2
+Hasan Ali,CJ Green,0.07692307692307693
+CJ Green,Wahab Riaz,0.2
+Wahab Riaz,CJ Green,0.07692307692307693
+DT Christian,Hasan Ali,0.25
+Hasan Ali,DT Christian,0.23076923076923078
+DT Christian,KA Pollard,0.125
+KA Pollard,DT Christian,0.07692307692307693
+DT Christian,LA Dawson,0.125
+LA Dawson,DT Christian,0.09090909090909091
+DT Christian,Sameen Gul,0.125
+Sameen Gul,DT Christian,0.14285714285714285
+DT Christian,Umaid Asif,0.25
+Umaid Asif,DT Christian,0.375
+Hammad Azam,Hasan Ali,0.2
+Hasan Ali,Hammad Azam,0.07692307692307693
+J Charles,Hasan Ali,0.14285714285714285
+Hasan Ali,J Charles,0.07692307692307693
+J Charles,KA Pollard,0.2857142857142857
+KA Pollard,J Charles,0.23076923076923078
+J Charles,LA Dawson,0.2857142857142857
+LA Dawson,J Charles,0.2727272727272727
+J Charles,Sameen Gul,0.14285714285714285
+Sameen Gul,J Charles,0.14285714285714285
+J Charles,Umaid Asif,0.2857142857142857
+Umaid Asif,J Charles,0.375
+J Charles,Wahab Riaz,0.2857142857142857
+Wahab Riaz,J Charles,0.23076923076923078
+JM Vince,Hasan Ali,0.25
+Hasan Ali,JM Vince,0.23076923076923078
+Junaid Khan,Wahab Riaz,0.14285714285714285
+Wahab Riaz,Junaid Khan,0.07692307692307693
+Mohammad Ilyas,Hasan Ali,0.125
+Hasan Ali,Mohammad Ilyas,0.07692307692307693
+Mohammad Ilyas,Wahab Riaz,0.125
+Wahab Riaz,Mohammad Ilyas,0.07692307692307693
+Mohammad Irfan,Wahab Riaz,0.1111111111111111
+Wahab Riaz,Mohammad Irfan,0.07692307692307693
+Shahid Afridi,Hasan Ali,0.25
+Hasan Ali,Shahid Afridi,0.23076923076923078
+Shahid Afridi,Sameen Gul,0.125
+Sameen Gul,Shahid Afridi,0.14285714285714285
+Shahid Afridi,Umaid Asif,0.125
+Umaid Asif,Shahid Afridi,0.125
+Shahid Afridi,Wahab Riaz,0.25
+Wahab Riaz,Shahid Afridi,0.23076923076923078
+Shoaib Malik,Hasan Ali,0.2
+Hasan Ali,Shoaib Malik,0.23076923076923078
+Shoaib Malik,KA Pollard,0.2
+KA Pollard,Shoaib Malik,0.23076923076923078
+Shoaib Malik,LA Dawson,0.2
+LA Dawson,Shoaib Malik,0.2727272727272727
+Shoaib Malik,Sameen Gul,0.1
+Sameen Gul,Shoaib Malik,0.14285714285714285
+Shoaib Malik,Umaid Asif,0.2
+Umaid Asif,Shoaib Malik,0.375
+Shoaib Malik,Wahab Riaz,0.2
+Wahab Riaz,Shoaib Malik,0.23076923076923078
+Umar Siddiq,Hasan Ali,0.2857142857142857
+Hasan Ali,Umar Siddiq,0.23076923076923078
+Umar Siddiq,KA Pollard,0.14285714285714285
+KA Pollard,Umar Siddiq,0.07692307692307693
+Umar Siddiq,LA Dawson,0.2857142857142857
+LA Dawson,Umar Siddiq,0.2727272727272727
+Umar Siddiq,Sameen Gul,0.14285714285714285
+Sameen Gul,Umar Siddiq,0.14285714285714285
+Umar Siddiq,Umaid Asif,0.2857142857142857
+Umaid Asif,Umar Siddiq,0.375
+Umar Siddiq,Wahab Riaz,0.14285714285714285
+Wahab Riaz,Umar Siddiq,0.07692307692307693
+Ahsan Ali,Aamer Yamin,0.125
+Aamer Yamin,Ahsan Ali,0.125
+Ahsan Ali,Imad Wasim,0.125
+Imad Wasim,Ahsan Ali,0.09090909090909091
+Ahsan Ali,Mohammad Amir,0.125
+Mohammad Amir,Ahsan Ali,0.1111111111111111
+Anwar Ali,Aamer Yamin,0.3333333333333333
+Aamer Yamin,Anwar Ali,0.125
+Anwar Ali,Mohammad Amir,0.3333333333333333
+Mohammad Amir,Anwar Ali,0.1111111111111111
+DR Smith,Aamer Yamin,0.2
+Aamer Yamin,DR Smith,0.125
+DR Smith,C Munro,0.2
+C Munro,DR Smith,0.125
+DR Smith,Imad Wasim,0.2
+Imad Wasim,DR Smith,0.09090909090909091
+DR Smith,Mohammad Amir,0.2
+Mohammad Amir,DR Smith,0.1111111111111111
+RR Rossouw,Aamer Yamin,0.08333333333333333
+Aamer Yamin,RR Rossouw,0.125
+RR Rossouw,C Munro,0.08333333333333333
+C Munro,RR Rossouw,0.125
+RR Rossouw,Imad Wasim,0.08333333333333333
+Imad Wasim,RR Rossouw,0.09090909090909091
+RR Rossouw,Mohammad Amir,0.08333333333333333
+Mohammad Amir,RR Rossouw,0.1111111111111111
+RR Rossouw,Sohail Khan,0.08333333333333333
+Sohail Khan,RR Rossouw,0.2
+RR Rossouw,Umer Khan,0.08333333333333333
+Umer Khan,RR Rossouw,0.09090909090909091
+SR Watson,Aamer Yamin,0.08333333333333333
+Aamer Yamin,SR Watson,0.125
+SR Watson,Imad Wasim,0.08333333333333333
+Imad Wasim,SR Watson,0.09090909090909091
+SR Watson,Mohammad Amir,0.08333333333333333
+Mohammad Amir,SR Watson,0.1111111111111111
+SR Watson,Sohail Khan,0.08333333333333333
+Sohail Khan,SR Watson,0.2
+SR Watson,Umer Khan,0.08333333333333333
+Umer Khan,SR Watson,0.09090909090909091
+Umar Akmal,Aamer Yamin,0.08333333333333333
+Aamer Yamin,Umar Akmal,0.125
+Umar Akmal,C Munro,0.08333333333333333
+C Munro,Umar Akmal,0.125
+Umar Akmal,Imad Wasim,0.08333333333333333
+Imad Wasim,Umar Akmal,0.09090909090909091
+Umar Akmal,Mohammad Amir,0.08333333333333333
+Mohammad Amir,Umar Akmal,0.1111111111111111
+Umar Akmal,Sohail Khan,0.08333333333333333
+Sohail Khan,Umar Akmal,0.2
+Umar Akmal,Umer Khan,0.08333333333333333
+Umer Khan,Umar Akmal,0.09090909090909091
+Asif Ali,DT Christian,0.08333333333333333
+DT Christian,Asif Ali,0.125
+Asif Ali,Mohammad Irfan,0.08333333333333333
+Mohammad Irfan,Asif Ali,0.1111111111111111
+Asif Ali,Nauman Ali,0.08333333333333333
+Nauman Ali,Asif Ali,0.25
+CS Delport,Mohammad Ilyas,0.08333333333333333
+Mohammad Ilyas,CS Delport,0.125
+Faheem Ashraf,DT Christian,0.08333333333333333
+DT Christian,Faheem Ashraf,0.125
+Faheem Ashraf,Nauman Ali,0.08333333333333333
+Nauman Ali,Faheem Ashraf,0.25
+L Ronchi,Mohammad Ilyas,0.08333333333333333
+Mohammad Ilyas,L Ronchi,0.125
+L Ronchi,Nauman Ali,0.08333333333333333
+Nauman Ali,L Ronchi,0.25
+Muhammad Musa,DT Christian,0.14285714285714285
+DT Christian,Muhammad Musa,0.125
+Muhammad Musa,Junaid Khan,0.14285714285714285
+Junaid Khan,Muhammad Musa,0.14285714285714285
+Rumman Raees,DT Christian,0.125
+DT Christian,Rumman Raees,0.125
+SR Patel,Mohammad Ilyas,0.125
+Mohammad Ilyas,SR Patel,0.125
+SR Patel,Nauman Ali,0.125
+Nauman Ali,SR Patel,0.25
+Sahibzada Farhan,Mohammad Ilyas,0.3333333333333333
+Mohammad Ilyas,Sahibzada Farhan,0.125
+Sahibzada Farhan,Mohammad Irfan,0.3333333333333333
+Mohammad Irfan,Sahibzada Farhan,0.1111111111111111
+Sahibzada Farhan,Nauman Ali,0.3333333333333333
+Nauman Ali,Sahibzada Farhan,0.25
+Shadab Khan,Nauman Ali,0.08333333333333333
+Nauman Ali,Shadab Khan,0.25
+WD Parnell,Mohammad Irfan,0.3333333333333333
+Mohammad Irfan,WD Parnell,0.1111111111111111
+WD Parnell,Shahid Afridi,0.3333333333333333
+Shahid Afridi,WD Parnell,0.125
+Ahsan Ali,D Wiese,0.125
+D Wiese,Ahsan Ali,0.14285714285714285
+Ahsan Ali,Fakhar Zaman,0.125
+Fakhar Zaman,Ahsan Ali,0.1
+Ahsan Ali,S Lamichhane,0.125
+S Lamichhane,Ahsan Ali,0.14285714285714285
+Ahsan Ali,Shaheen Shah Afridi,0.125
+Shaheen Shah Afridi,Ahsan Ali,0.125
+Ahsan Ali,Yasir Shah,0.125
+Yasir Shah,Ahsan Ali,0.2
+Danish Aziz,Fakhar Zaman,1.0
+Fakhar Zaman,Danish Aziz,0.1
+Danish Aziz,S Lamichhane,1.0
+S Lamichhane,Danish Aziz,0.14285714285714285
+Fawad Ahmed,Haris Rauf,0.08333333333333333
+Haris Rauf,Fawad Ahmed,0.1
+Mohammad Hasnain,Haris Rauf,0.14285714285714285
+Haris Rauf,Mohammad Hasnain,0.1
+RR Rossouw,D Wiese,0.08333333333333333
+D Wiese,RR Rossouw,0.14285714285714285
+RR Rossouw,S Lamichhane,0.08333333333333333
+S Lamichhane,RR Rossouw,0.14285714285714285
+SR Watson,S Lamichhane,0.08333333333333333
+S Lamichhane,SR Watson,0.14285714285714285
+SR Watson,Shaheen Shah Afridi,0.08333333333333333
+Shaheen Shah Afridi,SR Watson,0.125
+SR Watson,Yasir Shah,0.08333333333333333
+Yasir Shah,SR Watson,0.2
+Sarfraz Ahmed,D Wiese,0.08333333333333333
+D Wiese,Sarfraz Ahmed,0.14285714285714285
+Sarfraz Ahmed,Fakhar Zaman,0.08333333333333333
+Fakhar Zaman,Sarfraz Ahmed,0.1
+Sarfraz Ahmed,Haris Rauf,0.08333333333333333
+Haris Rauf,Sarfraz Ahmed,0.1
+Sarfraz Ahmed,S Lamichhane,0.08333333333333333
+S Lamichhane,Sarfraz Ahmed,0.14285714285714285
+Sarfraz Ahmed,Shaheen Shah Afridi,0.08333333333333333
+Shaheen Shah Afridi,Sarfraz Ahmed,0.125
+Sarfraz Ahmed,Yasir Shah,0.08333333333333333
+Yasir Shah,Sarfraz Ahmed,0.2
+Sohail Tanvir,Haris Rauf,0.08333333333333333
+Haris Rauf,Sohail Tanvir,0.1
+Sohail Tanvir,Shaheen Shah Afridi,0.08333333333333333
+Shaheen Shah Afridi,Sohail Tanvir,0.125
+Umar Akmal,S Lamichhane,0.08333333333333333
+S Lamichhane,Umar Akmal,0.14285714285714285
+Aamer Yamin,Amad Butt,0.125
+Amad Butt,Aamer Yamin,0.5
+BR Dunk,Amad Butt,0.14285714285714285
+Amad Butt,BR Dunk,0.5
+Babar Azam,Amad Butt,0.09090909090909091
+Amad Butt,Babar Azam,0.5
+C Munro,Muhammad Musa,0.25
+Muhammad Musa,C Munro,0.42857142857142855
+CA Ingram,Amad Butt,0.09090909090909091
+Amad Butt,CA Ingram,0.5
+CA Ingram,Rumman Raees,0.18181818181818182
+Rumman Raees,CA Ingram,0.375
+CA Ingram,Shadab Khan,0.18181818181818182
+Shadab Khan,CA Ingram,0.25
+Iftikhar Ahmed,Amad Butt,0.16666666666666666
+Amad Butt,Iftikhar Ahmed,0.5
+Imad Wasim,Rumman Raees,0.18181818181818182
+Rumman Raees,Imad Wasim,0.375
+LS Livingstone,Amad Butt,0.09090909090909091
+Amad Butt,LS Livingstone,0.5
+LS Livingstone,Rumman Raees,0.09090909090909091
+Rumman Raees,LS Livingstone,0.125
+Mohammad Amir,Amad Butt,0.1111111111111111
+Amad Butt,Mohammad Amir,0.5
+DT Christian,Wahab Riaz,0.125
+Wahab Riaz,DT Christian,0.07692307692307693
+J Charles,Ibtisam Sheikh,0.14285714285714285
+Ibtisam Sheikh,J Charles,0.25
+JM Vince,Ibtisam Sheikh,0.125
+Ibtisam Sheikh,JM Vince,0.25
+JM Vince,KA Pollard,0.125
+KA Pollard,JM Vince,0.07692307692307693
+JM Vince,LA Dawson,0.125
+LA Dawson,JM Vince,0.09090909090909091
+JM Vince,Umaid Asif,0.125
+Umaid Asif,JM Vince,0.125
+JM Vince,Wahab Riaz,0.125
+Wahab Riaz,JM Vince,0.07692307692307693
+AB de Villiers,AW Summers,0.14285714285714285
+AW Summers,AB de Villiers,0.5
+AB de Villiers,Iftikhar Ahmed,0.14285714285714285
+Iftikhar Ahmed,AB de Villiers,0.16666666666666666
+AB de Villiers,Imad Wasim,0.14285714285714285
+Imad Wasim,AB de Villiers,0.09090909090909091
+AB de Villiers,Mohammad Amir,0.14285714285714285
+Mohammad Amir,AB de Villiers,0.1111111111111111
+CJ Anderson,Iftikhar Ahmed,0.3333333333333333
+Iftikhar Ahmed,CJ Anderson,0.16666666666666666
+CJ Anderson,Imad Wasim,0.3333333333333333
+Imad Wasim,CJ Anderson,0.09090909090909091
+CJ Anderson,Umer Khan,0.3333333333333333
+Umer Khan,CJ Anderson,0.09090909090909091
+D Wiese,AW Summers,0.14285714285714285
+AW Summers,D Wiese,0.5
+D Wiese,Aamer Yamin,0.14285714285714285
+Aamer Yamin,D Wiese,0.125
+D Wiese,Mohammad Amir,0.14285714285714285
+Mohammad Amir,D Wiese,0.1111111111111111
+Fakhar Zaman,AW Summers,0.1
+AW Summers,Fakhar Zaman,0.5
+Fakhar Zaman,Aamer Yamin,0.1
+Aamer Yamin,Fakhar Zaman,0.125
+Fakhar Zaman,Iftikhar Ahmed,0.1
+Iftikhar Ahmed,Fakhar Zaman,0.16666666666666666
+Gauhar Ali,Imad Wasim,0.3333333333333333
+Imad Wasim,Gauhar Ali,0.09090909090909091
+Haris Sohail,AW Summers,0.2
+AW Summers,Haris Sohail,0.5
+Haris Sohail,Aamer Yamin,0.2
+Aamer Yamin,Haris Sohail,0.125
+Haris Sohail,Iftikhar Ahmed,0.2
+Iftikhar Ahmed,Haris Sohail,0.16666666666666666
+Haris Sohail,Imad Wasim,0.2
+Imad Wasim,Haris Sohail,0.09090909090909091
+Haris Sohail,Mohammad Amir,0.2
+Mohammad Amir,Haris Sohail,0.1111111111111111
+Sohail Akhtar,AW Summers,0.1
+AW Summers,Sohail Akhtar,0.5
+Sohail Akhtar,Aamer Yamin,0.1
+Aamer Yamin,Sohail Akhtar,0.125
+Asif Ali,Umaid Asif,0.08333333333333333
+Umaid Asif,Asif Ali,0.125
+Asif Ali,Wahab Riaz,0.08333333333333333
+Wahab Riaz,Asif Ali,0.07692307692307693
+CAK Walton,Ibtisam Sheikh,0.25
+Ibtisam Sheikh,CAK Walton,0.25
+CAK Walton,KA Pollard,0.25
+KA Pollard,CAK Walton,0.07692307692307693
+CAK Walton,LA Dawson,0.25
+LA Dawson,CAK Walton,0.09090909090909091
+CAK Walton,Umaid Asif,0.25
+Umaid Asif,CAK Walton,0.125
+CAK Walton,Wahab Riaz,0.25
+Wahab Riaz,CAK Walton,0.07692307692307693
+CS Delport,Ibtisam Sheikh,0.08333333333333333
+Ibtisam Sheikh,CS Delport,0.25
+Faheem Ashraf,Hasan Ali,0.08333333333333333
+Hasan Ali,Faheem Ashraf,0.07692307692307693
+L Ronchi,Ibtisam Sheikh,0.08333333333333333
+Ibtisam Sheikh,L Ronchi,0.25
+Nasir Nawaz,Hasan Ali,1.0
+Hasan Ali,Nasir Nawaz,0.07692307692307693
+Nasir Nawaz,Umaid Asif,1.0
+Umaid Asif,Nasir Nawaz,0.125
+Nasir Nawaz,Wahab Riaz,1.0
+Wahab Riaz,Nasir Nawaz,0.07692307692307693
+PD Salt,Hasan Ali,0.16666666666666666
+Hasan Ali,PD Salt,0.07692307692307693
+PD Salt,Ibtisam Sheikh,0.16666666666666666
+Ibtisam Sheikh,PD Salt,0.25
+PD Salt,KA Pollard,0.16666666666666666
+KA Pollard,PD Salt,0.07692307692307693
+PD Salt,LA Dawson,0.16666666666666666
+LA Dawson,PD Salt,0.09090909090909091
+PD Salt,Umaid Asif,0.16666666666666666
+Umaid Asif,PD Salt,0.125
+PD Salt,Wahab Riaz,0.16666666666666666
+Wahab Riaz,PD Salt,0.07692307692307693
+Zafar Gohar,Wahab Riaz,0.5
+Wahab Riaz,Zafar Gohar,0.07692307692307693
+DT Christian,DJ Bravo,0.125
+DJ Bravo,DT Christian,0.16666666666666666
+J Charles,DJ Bravo,0.14285714285714285
+DJ Bravo,J Charles,0.16666666666666666
+J Charles,Fawad Ahmed,0.14285714285714285
+Fawad Ahmed,J Charles,0.08333333333333333
+J Charles,Mohammad Hasnain,0.14285714285714285
+Mohammad Hasnain,J Charles,0.14285714285714285
+J Charles,Mohammad Nawaz,0.14285714285714285
+Mohammad Nawaz,J Charles,0.08333333333333333
+J Charles,Sohail Tanvir,0.14285714285714285
+Sohail Tanvir,J Charles,0.08333333333333333
+Mohammad Abbas,Sohail Tanvir,0.3333333333333333
+Sohail Tanvir,Mohammad Abbas,0.08333333333333333
+Mohammad Ilyas,Sohail Tanvir,0.125
+Sohail Tanvir,Mohammad Ilyas,0.08333333333333333
+Mohammad Irfan,Sohail Tanvir,0.1111111111111111
+Sohail Tanvir,Mohammad Irfan,0.08333333333333333
+Nauman Ali,DJ Bravo,0.25
+DJ Bravo,Nauman Ali,0.16666666666666666
+Nauman Ali,Sohail Tanvir,0.25
+Sohail Tanvir,Nauman Ali,0.08333333333333333
+Shahid Afridi,DJ Bravo,0.125
+DJ Bravo,Shahid Afridi,0.16666666666666666
+Shahid Afridi,Mohammad Hasnain,0.125
+Mohammad Hasnain,Shahid Afridi,0.14285714285714285
+Shahid Afridi,Sohail Tanvir,0.125
+Sohail Tanvir,Shahid Afridi,0.08333333333333333
+Shoaib Malik,DJ Bravo,0.1
+DJ Bravo,Shoaib Malik,0.16666666666666666
+Shoaib Malik,Mohammad Hasnain,0.1
+Mohammad Hasnain,Shoaib Malik,0.14285714285714285
+TJ Moores,DJ Bravo,0.3333333333333333
+DJ Bravo,TJ Moores,0.16666666666666666
+TJ Moores,Fawad Ahmed,0.3333333333333333
+Fawad Ahmed,TJ Moores,0.08333333333333333
+TJ Moores,Mohammad Hasnain,0.3333333333333333
+Mohammad Hasnain,TJ Moores,0.14285714285714285
+Umar Siddiq,DJ Bravo,0.14285714285714285
+DJ Bravo,Umar Siddiq,0.16666666666666666
+Umar Siddiq,Fawad Ahmed,0.14285714285714285
+Fawad Ahmed,Umar Siddiq,0.08333333333333333
+Umar Siddiq,Mohammad Hasnain,0.14285714285714285
+Mohammad Hasnain,Umar Siddiq,0.14285714285714285
+Umar Siddiq,Mohammad Nawaz,0.14285714285714285
+Mohammad Nawaz,Umar Siddiq,0.08333333333333333
+Umar Siddiq,Sohail Tanvir,0.14285714285714285
+Sohail Tanvir,Umar Siddiq,0.08333333333333333
+ADS Fletcher,DJ Bravo,0.25
+DJ Bravo,ADS Fletcher,0.16666666666666666
+ADS Fletcher,Fawad Ahmed,0.25
+Fawad Ahmed,ADS Fletcher,0.08333333333333333
+ADS Fletcher,Mohammad Hasnain,0.25
+Mohammad Hasnain,ADS Fletcher,0.14285714285714285
+ADS Fletcher,Sohail Tanvir,0.25
+Sohail Tanvir,ADS Fletcher,0.08333333333333333
+DJG Sammy,DJ Bravo,0.15384615384615385
+DJ Bravo,DJG Sammy,0.5
+DJG Sammy,Mohammad Hasnain,0.15384615384615385
+Mohammad Hasnain,DJG Sammy,0.42857142857142855
+DJG Sammy,Sohail Tanvir,0.15384615384615385
+Sohail Tanvir,DJG Sammy,0.25
+Imam-ul-Haq,DJ Bravo,0.08333333333333333
+DJ Bravo,Imam-ul-Haq,0.16666666666666666
+Imam-ul-Haq,Fawad Ahmed,0.08333333333333333
+Fawad Ahmed,Imam-ul-Haq,0.08333333333333333
+Imam-ul-Haq,Mohammad Nawaz,0.08333333333333333
+Mohammad Nawaz,Imam-ul-Haq,0.08333333333333333
+KA Pollard,DJ Bravo,0.07692307692307693
+DJ Bravo,KA Pollard,0.16666666666666666
+KA Pollard,Mohammad Hasnain,0.15384615384615385
+Mohammad Hasnain,KA Pollard,0.42857142857142855
+KA Pollard,Sohail Tanvir,0.15384615384615385
+Sohail Tanvir,KA Pollard,0.25
+Kamran Akmal,DJ Bravo,0.07692307692307693
+DJ Bravo,Kamran Akmal,0.16666666666666666
+Kamran Akmal,Mohammad Hasnain,0.15384615384615385
+Mohammad Hasnain,Kamran Akmal,0.42857142857142855
+Umar Amin,DJ Bravo,0.18181818181818182
+DJ Bravo,Umar Amin,0.5
+CJ Green,AW Summers,0.2
+AW Summers,CJ Green,0.5
+CJ Green,Aamer Yamin,0.2
+Aamer Yamin,CJ Green,0.125
+CJ Green,Usman Shinwari,0.2
+Usman Shinwari,CJ Green,0.1111111111111111
+DT Christian,Umer Khan,0.125
+Umer Khan,DT Christian,0.09090909090909091
+Hammad Azam,AW Summers,0.2
+AW Summers,Hammad Azam,0.5
+Hammad Azam,Aamer Yamin,0.2
+Aamer Yamin,Hammad Azam,0.125
+Hammad Azam,Imad Wasim,0.2
+Imad Wasim,Hammad Azam,0.09090909090909091
+Hammad Azam,Umer Khan,0.2
+Umer Khan,Hammad Azam,0.09090909090909091
+Hammad Azam,Usman Shinwari,0.2
+Usman Shinwari,Hammad Azam,0.1111111111111111
+J Charles,Imad Wasim,0.14285714285714285
+Imad Wasim,J Charles,0.09090909090909091
+J Charles,Usman Shinwari,0.14285714285714285
+Usman Shinwari,J Charles,0.1111111111111111
+JM Vince,AW Summers,0.125
+AW Summers,JM Vince,0.5
+JM Vince,Aamer Yamin,0.125
+Aamer Yamin,JM Vince,0.125
+JM Vince,Imad Wasim,0.125
+Imad Wasim,JM Vince,0.09090909090909091
+JM Vince,Umer Khan,0.125
+Umer Khan,JM Vince,0.09090909090909091
+JM Vince,Usman Shinwari,0.125
+Usman Shinwari,JM Vince,0.1111111111111111
+Mohammad Ilyas,AW Summers,0.125
+AW Summers,Mohammad Ilyas,0.5
+Mohammad Ilyas,Aamer Yamin,0.125
+Aamer Yamin,Mohammad Ilyas,0.125
+Mohammad Irfan (5),Usman Shinwari,0.5
+Usman Shinwari,Mohammad Irfan (5),0.1111111111111111
+Shoaib Malik,AW Summers,0.1
+AW Summers,Shoaib Malik,0.5
+Shoaib Malik,Aamer Yamin,0.1
+Aamer Yamin,Shoaib Malik,0.125
+Shoaib Malik,Imad Wasim,0.1
+Imad Wasim,Shoaib Malik,0.09090909090909091
+Shoaib Malik,Umer Khan,0.1
+Umer Khan,Shoaib Malik,0.09090909090909091
+Shoaib Malik,Usman Shinwari,0.1
+Usman Shinwari,Shoaib Malik,0.1111111111111111
+Umar Siddiq,Imad Wasim,0.14285714285714285
+Imad Wasim,Umar Siddiq,0.09090909090909091
+Umar Siddiq,Usman Shinwari,0.14285714285714285
+Usman Shinwari,Umar Siddiq,0.1111111111111111
+AP Devcich,TS Mills,0.2
+TS Mills,AP Devcich,0.2
+D Wiese,Hasan Ali,0.14285714285714285
+Hasan Ali,D Wiese,0.07692307692307693
+D Wiese,TS Mills,0.14285714285714285
+TS Mills,D Wiese,0.2
+D Wiese,Wahab Riaz,0.14285714285714285
+Wahab Riaz,D Wiese,0.07692307692307693
+Fakhar Zaman,Sameen Gul,0.1
+Sameen Gul,Fakhar Zaman,0.14285714285714285
+Fakhar Zaman,TS Mills,0.1
+TS Mills,Fakhar Zaman,0.2
+Haris Sohail,Hasan Ali,0.2
+Hasan Ali,Haris Sohail,0.07692307692307693
+Haris Sohail,LA Dawson,0.2
+LA Dawson,Haris Sohail,0.09090909090909091
+Haris Sohail,Sameen Gul,0.2
+Sameen Gul,Haris Sohail,0.14285714285714285
+Haris Sohail,TS Mills,0.2
+TS Mills,Haris Sohail,0.2
+Haris Sohail,Wahab Riaz,0.2
+Wahab Riaz,Haris Sohail,0.07692307692307693
+RN ten Doeschate,LA Dawson,1.0
+LA Dawson,RN ten Doeschate,0.09090909090909091
+RN ten Doeschate,Sameen Gul,1.0
+Sameen Gul,RN ten Doeschate,0.14285714285714285
+RN ten Doeschate,TS Mills,1.0
+TS Mills,RN ten Doeschate,0.2
+S Lamichhane,Wahab Riaz,0.14285714285714285
+Wahab Riaz,S Lamichhane,0.07692307692307693
+Shaheen Shah Afridi,TS Mills,0.125
+TS Mills,Shaheen Shah Afridi,0.2
+Sohail Akhtar,LA Dawson,0.1
+LA Dawson,Sohail Akhtar,0.09090909090909091
+Sohail Akhtar,Sameen Gul,0.1
+Sameen Gul,Sohail Akhtar,0.14285714285714285
+Sohail Akhtar,Wahab Riaz,0.1
+Wahab Riaz,Sohail Akhtar,0.07692307692307693
+Umair Masood,Hasan Ali,1.0
+Hasan Ali,Umair Masood,0.07692307692307693
+Umair Masood,LA Dawson,1.0
+LA Dawson,Umair Masood,0.09090909090909091
+Umair Masood,Sameen Gul,1.0
+Sameen Gul,Umair Masood,0.14285714285714285
+Umair Masood,TS Mills,1.0
+TS Mills,Umair Masood,0.2
+Umair Masood,Wahab Riaz,1.0
+Wahab Riaz,Umair Masood,0.07692307692307693
+Ahmed Shehzad,Amad Butt,0.125
+Amad Butt,Ahmed Shehzad,0.5
+Ahmed Shehzad,CS Delport,0.125
+CS Delport,Ahmed Shehzad,0.08333333333333333
+Ahmed Shehzad,Faheem Ashraf,0.125
+Faheem Ashraf,Ahmed Shehzad,0.08333333333333333
+Ahmed Shehzad,Mohammad Sami,0.125
+Mohammad Sami,Ahmed Shehzad,0.1111111111111111
+Ahmed Shehzad,SR Patel,0.125
+SR Patel,Ahmed Shehzad,0.125
+Ahmed Shehzad,Shadab Khan,0.125
+Shadab Khan,Ahmed Shehzad,0.08333333333333333
+Ahmed Shehzad,Zafar Gohar,0.125
+Zafar Gohar,Ahmed Shehzad,0.5
+Azam Khan,Faheem Ashraf,1.0
+Faheem Ashraf,Azam Khan,0.08333333333333333
+Azam Khan,Mohammad Sami,1.0
+Mohammad Sami,Azam Khan,0.1111111111111111
+Azam Khan,SR Patel,1.0
+SR Patel,Azam Khan,0.125
+DJ Bravo,Amad Butt,0.16666666666666666
+Amad Butt,DJ Bravo,0.5
+DJ Bravo,Faheem Ashraf,0.16666666666666666
+Faheem Ashraf,DJ Bravo,0.08333333333333333
+Fawad Ahmed,Amad Butt,0.08333333333333333
+Amad Butt,Fawad Ahmed,0.5
+RR Rossouw,Amad Butt,0.08333333333333333
+Amad Butt,RR Rossouw,0.5
+RR Rossouw,CS Delport,0.08333333333333333
+CS Delport,RR Rossouw,0.08333333333333333
+RR Rossouw,Faheem Ashraf,0.08333333333333333
+Faheem Ashraf,RR Rossouw,0.08333333333333333
+RR Rossouw,Shadab Khan,0.08333333333333333
+Shadab Khan,RR Rossouw,0.08333333333333333
+RR Rossouw,Zafar Gohar,0.08333333333333333
+Zafar Gohar,RR Rossouw,0.5
+SR Watson,SR Patel,0.08333333333333333
+SR Patel,SR Watson,0.125
+SR Watson,Shadab Khan,0.08333333333333333
+Shadab Khan,SR Watson,0.08333333333333333
+Sarfraz Ahmed,Amad Butt,0.08333333333333333
+Amad Butt,Sarfraz Ahmed,0.5
+Sarfraz Ahmed,Faheem Ashraf,0.08333333333333333
+Faheem Ashraf,Sarfraz Ahmed,0.08333333333333333
+Sohail Tanvir,Faheem Ashraf,0.08333333333333333
+Faheem Ashraf,Sohail Tanvir,0.08333333333333333
+Umar Akmal,Amad Butt,0.08333333333333333
+Amad Butt,Umar Akmal,0.5
+Umar Akmal,SR Patel,0.08333333333333333
+SR Patel,Umar Akmal,0.125
+Umar Akmal,Zafar Gohar,0.08333333333333333
+Zafar Gohar,Umar Akmal,0.5
+DJG Sammy,Sohail Khan,0.07692307692307693
+Sohail Khan,DJG Sammy,0.2
+Hasan Ali,Usman Shinwari,0.07692307692307693
+Usman Shinwari,Hasan Ali,0.1111111111111111
+Imam-ul-Haq,C Munro,0.08333333333333333
+C Munro,Imam-ul-Haq,0.125
+Imam-ul-Haq,Sohail Khan,0.08333333333333333
+Sohail Khan,Imam-ul-Haq,0.2
+Imam-ul-Haq,Umer Khan,0.08333333333333333
+Umer Khan,Imam-ul-Haq,0.09090909090909091
+KA Pollard,C Munro,0.07692307692307693
+C Munro,KA Pollard,0.125
+Kamran Akmal,C Munro,0.07692307692307693
+C Munro,Kamran Akmal,0.125
+Kamran Akmal,Imad Wasim,0.07692307692307693
+Imad Wasim,Kamran Akmal,0.09090909090909091
+Kamran Akmal,Sohail Khan,0.07692307692307693
+Sohail Khan,Kamran Akmal,0.2
+Kamran Akmal,Umer Khan,0.07692307692307693
+Umer Khan,Kamran Akmal,0.09090909090909091
+Kamran Akmal,Usman Shinwari,0.07692307692307693
+Usman Shinwari,Kamran Akmal,0.1111111111111111
+LA Dawson,C Munro,0.09090909090909091
+C Munro,LA Dawson,0.125
+LA Dawson,Sohail Khan,0.09090909090909091
+Sohail Khan,LA Dawson,0.2
+Sohaib Maqsood,Mohammad Amir,0.2
+Mohammad Amir,Sohaib Maqsood,0.1111111111111111
+Sohaib Maqsood,Sohail Khan,0.2
+Sohail Khan,Sohaib Maqsood,0.2
+Sohaib Maqsood,Usman Shinwari,0.2
+Usman Shinwari,Sohaib Maqsood,0.1111111111111111
+Asif Ali,D Wiese,0.08333333333333333
+D Wiese,Asif Ali,0.14285714285714285
+Asif Ali,Haris Rauf,0.08333333333333333
+Haris Rauf,Asif Ali,0.1
+Asif Ali,Rahat Ali,0.08333333333333333
+Rahat Ali,Asif Ali,0.14285714285714285
+Asif Ali,S Lamichhane,0.08333333333333333
+S Lamichhane,Asif Ali,0.14285714285714285
+Asif Ali,Shaheen Shah Afridi,0.08333333333333333
+Shaheen Shah Afridi,Asif Ali,0.125
+CAK Walton,Agha Salman,0.25
+Agha Salman,CAK Walton,0.3333333333333333
+CAK Walton,D Wiese,0.25
+D Wiese,CAK Walton,0.14285714285714285
+CAK Walton,Haris Rauf,0.25
+Haris Rauf,CAK Walton,0.1
+CAK Walton,S Lamichhane,0.25
+S Lamichhane,CAK Walton,0.14285714285714285
+CS Delport,Agha Salman,0.08333333333333333
+Agha Salman,CS Delport,0.3333333333333333
+CS Delport,D Wiese,0.08333333333333333
+D Wiese,CS Delport,0.14285714285714285
+CS Delport,Haris Rauf,0.08333333333333333
+Haris Rauf,CS Delport,0.1
+CS Delport,Rahat Ali,0.08333333333333333
+Rahat Ali,CS Delport,0.14285714285714285
+CS Delport,S Lamichhane,0.08333333333333333
+S Lamichhane,CS Delport,0.14285714285714285
+CS Delport,Shaheen Shah Afridi,0.08333333333333333
+Shaheen Shah Afridi,CS Delport,0.125
+L Ronchi,Shaheen Shah Afridi,0.08333333333333333
+Shaheen Shah Afridi,L Ronchi,0.125
+PD Salt,Rahat Ali,0.16666666666666666
+Rahat Ali,PD Salt,0.14285714285714285
+PD Salt,S Lamichhane,0.16666666666666666
+S Lamichhane,PD Salt,0.14285714285714285
+PD Salt,Shaheen Shah Afridi,0.16666666666666666
+Shaheen Shah Afridi,PD Salt,0.125
+BR Dunk,DJ Bravo,0.14285714285714285
+DJ Bravo,BR Dunk,0.16666666666666666
+BR Dunk,Mohammad Hasnain,0.14285714285714285
+Mohammad Hasnain,BR Dunk,0.14285714285714285
+BR Dunk,Sohail Tanvir,0.14285714285714285
+Sohail Tanvir,BR Dunk,0.08333333333333333
+Babar Azam,DJ Bravo,0.09090909090909091
+DJ Bravo,Babar Azam,0.16666666666666666
+Babar Azam,Fawad Ahmed,0.09090909090909091
+Fawad Ahmed,Babar Azam,0.08333333333333333
+Babar Azam,Mohammad Hasnain,0.09090909090909091
+Mohammad Hasnain,Babar Azam,0.14285714285714285
+Babar Azam,Mohammad Nawaz,0.09090909090909091
+Mohammad Nawaz,Babar Azam,0.08333333333333333
+Babar Azam,Sohail Tanvir,0.09090909090909091
+Sohail Tanvir,Babar Azam,0.08333333333333333
+C Munro,DJ Bravo,0.125
+DJ Bravo,C Munro,0.16666666666666666
+C Munro,Fawad Ahmed,0.125
+Fawad Ahmed,C Munro,0.08333333333333333
+C Munro,Mohammad Hasnain,0.125
+Mohammad Hasnain,C Munro,0.14285714285714285
+C Munro,Mohammad Nawaz,0.125
+Mohammad Nawaz,C Munro,0.08333333333333333
+C Munro,Sohail Tanvir,0.125
+Sohail Tanvir,C Munro,0.08333333333333333
+CA Ingram,Fawad Ahmed,0.09090909090909091
+Fawad Ahmed,CA Ingram,0.08333333333333333
+CA Ingram,Mohammad Hasnain,0.09090909090909091
+Mohammad Hasnain,CA Ingram,0.14285714285714285
+CA Ingram,Mohammad Nawaz,0.09090909090909091
+Mohammad Nawaz,CA Ingram,0.08333333333333333
+Iftikhar Ahmed,DJ Bravo,0.16666666666666666
+DJ Bravo,Iftikhar Ahmed,0.16666666666666666
+Iftikhar Ahmed,Mohammad Hasnain,0.16666666666666666
+Mohammad Hasnain,Iftikhar Ahmed,0.14285714285714285
+Iftikhar Ahmed,Sohail Tanvir,0.16666666666666666
+Sohail Tanvir,Iftikhar Ahmed,0.08333333333333333
+Imad Wasim,Mohammad Hasnain,0.09090909090909091
+Mohammad Hasnain,Imad Wasim,0.14285714285714285
+LS Livingstone,Fawad Ahmed,0.09090909090909091
+Fawad Ahmed,LS Livingstone,0.08333333333333333
+LS Livingstone,Mohammad Nawaz,0.09090909090909091
+Mohammad Nawaz,LS Livingstone,0.08333333333333333
+D Wiese,Junaid Khan,0.14285714285714285
+Junaid Khan,D Wiese,0.14285714285714285
+D Wiese,Mohammad Abbas,0.14285714285714285
+Mohammad Abbas,D Wiese,0.3333333333333333
+D Wiese,Mohammad Ilyas,0.14285714285714285
+Mohammad Ilyas,D Wiese,0.125
+D Wiese,Shahid Afridi,0.14285714285714285
+Shahid Afridi,D Wiese,0.125
+DAS Gunaratne,Junaid Khan,1.0
+Junaid Khan,DAS Gunaratne,0.14285714285714285
+DAS Gunaratne,Mohammad Abbas,1.0
+Mohammad Abbas,DAS Gunaratne,0.3333333333333333
+DAS Gunaratne,Mohammad Ilyas,1.0
+Mohammad Ilyas,DAS Gunaratne,0.125
+Fakhar Zaman,CJ Green,0.1
+CJ Green,Fakhar Zaman,0.2
+Fakhar Zaman,Junaid Khan,0.1
+Junaid Khan,Fakhar Zaman,0.14285714285714285
+Fakhar Zaman,Mohammad Abbas,0.1
+Mohammad Abbas,Fakhar Zaman,0.3333333333333333
+Fakhar Zaman,Mohammad Ilyas,0.1
+Mohammad Ilyas,Fakhar Zaman,0.125
+Fakhar Zaman,Shahid Afridi,0.1
+Shahid Afridi,Fakhar Zaman,0.125
+Haris Rauf,Junaid Khan,0.1
+Junaid Khan,Haris Rauf,0.14285714285714285
+Haris Sohail,CJ Green,0.2
+CJ Green,Haris Sohail,0.2
+Haris Sohail,Mohammad Abbas,0.2
+Mohammad Abbas,Haris Sohail,0.3333333333333333
+Haris Sohail,Shahid Afridi,0.2
+Shahid Afridi,Haris Sohail,0.125
+Hassan Khan,Mohammad Abbas,0.5
+Mohammad Abbas,Hassan Khan,0.3333333333333333
+Hassan Khan,Mohammad Ilyas,0.5
+Mohammad Ilyas,Hassan Khan,0.125
+MH Wessels,CJ Green,0.5
+CJ Green,MH Wessels,0.2
+MH Wessels,Mohammad Abbas,0.5
+Mohammad Abbas,MH Wessels,0.3333333333333333
+MH Wessels,Mohammad Ilyas,0.5
+Mohammad Ilyas,MH Wessels,0.125
+Saad Ali,CJ Green,1.0
+CJ Green,Saad Ali,0.2
+Saad Ali,Junaid Khan,1.0
+Junaid Khan,Saad Ali,0.14285714285714285
+Saad Ali,Mohammad Abbas,1.0
+Mohammad Abbas,Saad Ali,0.3333333333333333
+Saad Ali,Shahid Afridi,1.0
+Shahid Afridi,Saad Ali,0.125
+Shaheen Shah Afridi,Junaid Khan,0.125
+Junaid Khan,Shaheen Shah Afridi,0.14285714285714285
+Shaheen Shah Afridi,Mohammad Ilyas,0.125
+Mohammad Ilyas,Shaheen Shah Afridi,0.125
+Sohail Akhtar,CJ Green,0.1
+CJ Green,Sohail Akhtar,0.2
+Sohail Akhtar,Junaid Khan,0.1
+Junaid Khan,Sohail Akhtar,0.14285714285714285
+Sohail Akhtar,Mohammad Abbas,0.1
+Mohammad Abbas,Sohail Akhtar,0.3333333333333333
+Aamer Yamin,Mohammad Sami,0.125
+Mohammad Sami,Aamer Yamin,0.1111111111111111
+Babar Azam,Mohammad Sami,0.09090909090909091
+Mohammad Sami,Babar Azam,0.1111111111111111
+C Munro,Faheem Ashraf,0.125
+Faheem Ashraf,C Munro,0.08333333333333333
+C Munro,Mohammad Sami,0.125
+Mohammad Sami,C Munro,0.1111111111111111
+Iftikhar Ahmed,Muhammad Musa,0.16666666666666666
+Muhammad Musa,Iftikhar Ahmed,0.14285714285714285
+Imad Wasim,Mohammad Sami,0.09090909090909091
+Mohammad Sami,Imad Wasim,0.1111111111111111
+Imad Wasim,Muhammad Musa,0.09090909090909091
+Muhammad Musa,Imad Wasim,0.14285714285714285
+LS Livingstone,Mohammad Sami,0.09090909090909091
+Mohammad Sami,LS Livingstone,0.1111111111111111
+Mohammad Amir,Faheem Ashraf,0.1111111111111111
+Faheem Ashraf,Mohammad Amir,0.08333333333333333
+Mohammad Amir,Mohammad Sami,0.1111111111111111
+Mohammad Sami,Mohammad Amir,0.1111111111111111
+Umer Khan,Faheem Ashraf,0.09090909090909091
+Faheem Ashraf,Umer Khan,0.08333333333333333
+Usman Shinwari,Rumman Raees,0.1111111111111111
+Rumman Raees,Usman Shinwari,0.125
+Ahmed Shehzad,Hasan Ali,0.125
+Hasan Ali,Ahmed Shehzad,0.07692307692307693
+Ahmed Shehzad,TS Mills,0.125
+TS Mills,Ahmed Shehzad,0.2
+Ahsan Ali,Hasan Ali,0.125
+Hasan Ali,Ahsan Ali,0.07692307692307693
+Ahsan Ali,KA Pollard,0.125
+KA Pollard,Ahsan Ali,0.07692307692307693
+Ahsan Ali,LA Dawson,0.125
+LA Dawson,Ahsan Ali,0.09090909090909091
+Ahsan Ali,Sameen Gul,0.125
+Sameen Gul,Ahsan Ali,0.14285714285714285
+Ahsan Ali,TS Mills,0.125
+TS Mills,Ahsan Ali,0.2
+Ahsan Ali,Wahab Riaz,0.125
+Wahab Riaz,Ahsan Ali,0.07692307692307693
+DJ Bravo,Hasan Ali,0.16666666666666666
+Hasan Ali,DJ Bravo,0.07692307692307693
+DJ Bravo,Wahab Riaz,0.5
+Wahab Riaz,DJ Bravo,0.15384615384615385
+RR Rossouw,KA Pollard,0.08333333333333333
+KA Pollard,RR Rossouw,0.07692307692307693
+RR Rossouw,Sameen Gul,0.08333333333333333
+Sameen Gul,RR Rossouw,0.14285714285714285
+RR Rossouw,TS Mills,0.08333333333333333
+TS Mills,RR Rossouw,0.2
+RR Rossouw,Wahab Riaz,0.08333333333333333
+Wahab Riaz,RR Rossouw,0.07692307692307693
+SR Watson,Hasan Ali,0.08333333333333333
+Hasan Ali,SR Watson,0.07692307692307693
+SR Watson,KA Pollard,0.08333333333333333
+KA Pollard,SR Watson,0.07692307692307693
+SR Watson,LA Dawson,0.08333333333333333
+LA Dawson,SR Watson,0.09090909090909091
+SR Watson,Sameen Gul,0.08333333333333333
+Sameen Gul,SR Watson,0.14285714285714285
+SR Watson,TS Mills,0.08333333333333333
+TS Mills,SR Watson,0.2
+SR Watson,Wahab Riaz,0.08333333333333333
+Wahab Riaz,SR Watson,0.07692307692307693
+Sarfraz Ahmed,Hasan Ali,0.08333333333333333
+Hasan Ali,Sarfraz Ahmed,0.07692307692307693
+Sarfraz Ahmed,KA Pollard,0.08333333333333333
+KA Pollard,Sarfraz Ahmed,0.07692307692307693
+Sarfraz Ahmed,TS Mills,0.08333333333333333
+TS Mills,Sarfraz Ahmed,0.2
+Sarfraz Ahmed,Wahab Riaz,0.08333333333333333
+Wahab Riaz,Sarfraz Ahmed,0.07692307692307693
+Umar Akmal,Hasan Ali,0.08333333333333333
+Hasan Ali,Umar Akmal,0.07692307692307693
+Umar Akmal,KA Pollard,0.08333333333333333
+KA Pollard,Umar Akmal,0.07692307692307693
+Umar Akmal,Sameen Gul,0.08333333333333333
+Sameen Gul,Umar Akmal,0.14285714285714285
+Umar Akmal,TS Mills,0.08333333333333333
+TS Mills,Umar Akmal,0.2
+Umar Akmal,Wahab Riaz,0.08333333333333333
+Wahab Riaz,Umar Akmal,0.07692307692307693
+DJG Sammy,Faheem Ashraf,0.07692307692307693
+Faheem Ashraf,DJG Sammy,0.08333333333333333
+DJG Sammy,Rumman Raees,0.07692307692307693
+Rumman Raees,DJG Sammy,0.125
+DJG Sammy,Shadab Khan,0.07692307692307693
+Shadab Khan,DJG Sammy,0.08333333333333333
+Imam-ul-Haq,CS Delport,0.08333333333333333
+CS Delport,Imam-ul-Haq,0.08333333333333333
+Imam-ul-Haq,Faheem Ashraf,0.08333333333333333
+Faheem Ashraf,Imam-ul-Haq,0.08333333333333333
+Imam-ul-Haq,Mohammad Sami,0.08333333333333333
+Mohammad Sami,Imam-ul-Haq,0.1111111111111111
+Imam-ul-Haq,Muhammad Musa,0.08333333333333333
+Muhammad Musa,Imam-ul-Haq,0.14285714285714285
+Imam-ul-Haq,Rumman Raees,0.08333333333333333
+Rumman Raees,Imam-ul-Haq,0.125
+Imam-ul-Haq,Shadab Khan,0.08333333333333333
+Shadab Khan,Imam-ul-Haq,0.08333333333333333
+KA Pollard,Faheem Ashraf,0.07692307692307693
+Faheem Ashraf,KA Pollard,0.08333333333333333
+KA Pollard,Rumman Raees,0.07692307692307693
+Rumman Raees,KA Pollard,0.125
+KA Pollard,Shadab Khan,0.07692307692307693
+Shadab Khan,KA Pollard,0.08333333333333333
+Kamran Akmal,CS Delport,0.07692307692307693
+CS Delport,Kamran Akmal,0.08333333333333333
+Kamran Akmal,Faheem Ashraf,0.07692307692307693
+Faheem Ashraf,Kamran Akmal,0.08333333333333333
+Kamran Akmal,Mohammad Sami,0.07692307692307693
+Mohammad Sami,Kamran Akmal,0.1111111111111111
+Kamran Akmal,Muhammad Musa,0.07692307692307693
+Muhammad Musa,Kamran Akmal,0.14285714285714285
+Kamran Akmal,Rumman Raees,0.07692307692307693
+Rumman Raees,Kamran Akmal,0.125
+Kamran Akmal,Shadab Khan,0.07692307692307693
+Shadab Khan,Kamran Akmal,0.08333333333333333
+Sohaib Maqsood,CS Delport,0.2
+CS Delport,Sohaib Maqsood,0.08333333333333333
+Sohaib Maqsood,Shadab Khan,0.2
+Shadab Khan,Sohaib Maqsood,0.08333333333333333
+Wahab Riaz,Faheem Ashraf,0.07692307692307693
+Faheem Ashraf,Wahab Riaz,0.08333333333333333
+Wahab Riaz,Rumman Raees,0.07692307692307693
+Rumman Raees,Wahab Riaz,0.125
+Imam-ul-Haq,Mohammad Hasnain,0.08333333333333333
+Mohammad Hasnain,Imam-ul-Haq,0.14285714285714285
+Imam-ul-Haq,Sohail Tanvir,0.08333333333333333
+Sohail Tanvir,Imam-ul-Haq,0.08333333333333333
+Nabi Gul,DJ Bravo,0.5
+DJ Bravo,Nabi Gul,0.16666666666666666
+Nabi Gul,Fawad Ahmed,0.5
+Fawad Ahmed,Nabi Gul,0.08333333333333333
+Nabi Gul,Mohammad Hasnain,0.5
+Mohammad Hasnain,Nabi Gul,0.14285714285714285
+Nabi Gul,Mohammad Nawaz,0.5
+Mohammad Nawaz,Nabi Gul,0.08333333333333333
+Sohaib Maqsood,DJ Bravo,0.2
+DJ Bravo,Sohaib Maqsood,0.16666666666666666
+Sohaib Maqsood,Mohammad Hasnain,0.2
+Mohammad Hasnain,Sohaib Maqsood,0.14285714285714285
+Umar Amin,Fawad Ahmed,0.09090909090909091
+Fawad Ahmed,Umar Amin,0.08333333333333333
+Umar Amin,Mohammad Hasnain,0.09090909090909091
+Mohammad Hasnain,Umar Amin,0.14285714285714285
+Umar Amin,Mohammad Nawaz,0.09090909090909091
+Mohammad Nawaz,Umar Amin,0.08333333333333333
+Wahab Riaz,Mohammad Hasnain,0.07692307692307693
+Mohammad Hasnain,Wahab Riaz,0.14285714285714285
+Wahab Riaz,Sohail Tanvir,0.07692307692307693
+Sohail Tanvir,Wahab Riaz,0.08333333333333333

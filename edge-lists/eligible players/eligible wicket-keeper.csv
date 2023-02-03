@@ -1,0 +1,11 @@
+Player,Matches Played,Runs,Wickets,Status,Role,Closeness Centrality,Betweenness Centrality,Clustering Coefficient,Degree
+Azam Khan,32,632,0,Eligible,Wicket-Keeper,0.001818182,304.225785,0.2476181,84
+Bismillah Khan,3,55,0,Eligible,Wicket-Keeper,0.001408451,0,1,4
+Gauhar Ali,3,30,0,Eligible,Wicket-Keeper,0.001481481,0.4237699,0.4756742,8
+Mohammad Rizwan,59,1446,0,Eligible,Wicket-Keeper,0.001964637,960.8385612,0.2053143,130
+Muhammad Akhlaq,7,46,0,Eligible,Wicket-Keeper,0.001447178,1.1178736,0.471742,8
+Rohail Nazir,9,128,0,Eligible,Wicket-Keeper,0.001626016,27.8607699,0.2855691,32
+Saifullah Bangash,5,0,0,Eligible,Wicket-Keeper,NA,NA,NA,NA
+Sarfraz Ahmed,72,1341,0,Eligible,Wicket-Keeper,0.001893939,331.0596556,0.3038579,102
+Umair Masood,1,22,0,Eligible,Wicket-Keeper,0.001501502,0.6980633,0.2980197,10
+Zeeshan Ashraf,16,226,0,Eligible,Wicket-Keeper,0.001766784,94.429687,0.3096673,52

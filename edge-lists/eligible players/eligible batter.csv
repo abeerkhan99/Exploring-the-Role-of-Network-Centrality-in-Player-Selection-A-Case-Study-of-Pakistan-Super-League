@@ -1,0 +1,34 @@
+Player,Matches Played,Runs,Status,Role,Closeness Centrality,Betwenness Centrality,Clustering Coefficient,Degree
+Aamer Azmat,5,43,Eligible,Batter,0.00147929,3.7634607,0.32447461,14
+Abdul Bangalzai,1,14,Eligible,Batter,NA,NA,NA,NA
+Abdullah Shafique,11,251,Eligible,Batter,0.001754386,260.2413513,0.1368538,50
+Ahmed Shehzad,45,1077,Eligible,Batter,0.001811594,244.4921658,0.2605887,80
+Ahsan Ali,19,444,Eligible,Batter,0.001727116,171.3085142,0.2940708,46
+Asif Ali,67,1016,Eligible,Batter,0.001886792,1042.266628,0.13023115,100
+Babar Azam,68,2413,Eligible,Batter,0.002,1385.095154,0.19584367,148
+Fakhar Zaman,63,1939,Eligible,Batter,0.002020202,1952.259558,0.16431757,152
+Gulraiz Sadaf,5,110,Eligible,Batter,0.001602564,6.0107237,0.45152691,22
+Haider Ali,28,557,Eligible,Batter,0.001798561,195.7738012,0.24877711,76
+Hammad Azam,12,94,Eligible,Batter,0.00170068,80.1991966,0.24808756,38
+Haris Sohail,11,153,Eligible,Batter,0.001745201,109.7900395,0.28934518,48
+Iftikhar Ahmed,48,584,Eligible,Batter,0.001964637,1367.214146,0.20735194,132
+Imam-ul-Haq,22,542,Eligible,Batter,0.00174216,86.5271703,0.36778371,50
+Khushdil Shah,38,554,Eligible,Batter,0.001908397,672.361488,0.1987997,114
+Muhammad Faizan,9,23,Eligible,Batter,0.001550388,4.9216323,0.3617044,20
+Mohammad Haris,5,166,Eligible,Batter,0.001675042,91.250794,0.24323618,38
+Mukhtar Ahmed,1,1,Eligible,Batter,NA,NA,NA,NA
+Nabi Gul,2,9,Eligible,Batter,0.001386963,0.9676986,0,8
+Nasir Nawaz,2,17,Eligible,Batter,0.001533742,14.2989221,0.19923204,16
+Nauman Anwar,5,55,Eligible,Batter,0.001347709,12.1515831,0.07212423,12
+Rizwan Hussain,9,82,Eligible,Batter,0.001642036,28.7804451,0.19887254,30
+Sahibzada Farhan,14,191,Eligible,Batter,0.001615509,12.0804761,0.39451871,22
+Saif Badar,10,21,Eligible,Batter,0.00148368,0.3279774,0.50416589,8
+Saim Ayub,7,114,Eligible,Batter,0.001623377,33.1121431,0.22939171,34
+Shan Masood,34,1082,Eligible,Batter,0.001890359,579.878053,0.24943847,104
+Sharjeel Khan,45,1086,Eligible,Batter,0.001926782,611.9562497,0.21488112,112
+Sohaib Maqsood,43,970,Eligible,Batter,0.001960784,821.7205978,0.21357839,132
+Saad Ali,1,8,Eligible,Batter,0.001347709,3.3979681,0,8
+Umar Amin,21,332,Eligible,Batter,0.001757469,74.9643672,0.3417872,48
+Umar Siddiq,7,169,Eligible,Batter,0.001715266,14.6841768,0.42563547,36
+Usman Khan,6,150,Eligible,Batter,0.001552795,9.8007054,0.32425104,22
+Yasir Khan,4,87,Eligible,Batter,0.001512859,28.8381201,0.14922256,18

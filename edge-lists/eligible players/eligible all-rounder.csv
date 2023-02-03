@@ -1,0 +1,24 @@
+Player,Matches Played,Runs,Wickets,Status,Role,Closeness Centrality,Betweenness Centrality,Clustering Coefficient,Degree
+Aamer Yamin,27,122,17,Eligible,All-Rounder,0.001901141,645.5073482,0.18974838,118
+Abdul Nasir,2,1,1,Eligible,All-Rounder,0.0013947,6.2691889,0.0863388,14
+Adil Amin,1,7,0,Eligible,All-Rounder,NA,NA,NA,NA
+Ahmed Safi Abdullah,3,9,4,Eligible,All-Rounder,0.001428571,0.76647,0.39593252,10
+Amad Butt,22,127,18,Eligible,All-Rounder,0.001893939,389.7749496,0.28776076,114
+Bilal Asif,1,0,0,Eligible,All-Rounder,NA,NA,NA,NA
+Danish Aziz,8,111,0,Eligible,All-Rounder,0.001650165,108.1129875,0.15214357,38
+Faheem Ashraf,49,488,64,Eligible,All-Rounder,0.002155172,2588.312469,0.22135608,214
+Hussain Talat,49,796,11,Eligible,All-Rounder,0.002028398,1234.129844,0.20328731,156
+Imad Wasim,68,682,42,Eligible,All-Rounder,0.002169197,3078.209274,0.18523606,222
+Kamran Ghulam,15,308,1,Eligible,All-Rounder,0.001798561,345.4549684,0.17519532,66
+Mohammad Huraira,1,2,0,Eligible,All-Rounder,0.00110742,0.176819,0,4
+Mohammad Imran (2),14,1,10,Eligible,All-Rounder,0.001390821,1.9680659,0.09919508,10
+Mohammad Mohsin,2,0,1,Eligible,All-Rounder,0.001490313,1.280928,0.29323848,10
+Mohammad Nawaz,66,619,61,Eligible,All-Rounder,0.00203252,2105.127196,0.13118633,184
+Mohammad Taha,5,6,0,Eligible,All-Rounder,0.001398601,0.1044749,0.6609608,6
+Mohammad Wasim,19,77,20,Eligible,All-Rounder,0.001862197,539.7155201,0.23345213,100
+Mubasir Khan,7,36,1,Eligible,All-Rounder,0.001501502,7.2060128,0.13949893,18
+Mohammad Imran,1,8,1,Eligible,All-Rounder,0.001754386,221.930301,0.22981331,68
+Qasim Akram,6,109,1,Eligible,All-Rounder,0.001572327,150.2461395,0.2071463,28
+Agha Salman,15,219,0,Eligible,All-Rounder,0.001658375,31.2252922,0.43056068,38
+Shadab Khan,61,800,65,Eligible,All-Rounder,0.002109705,2087.340713,0.22625643,204
+Zeeshan Zameer,2,0,1,Eligible,All-Rounder,NA,NA,NA,NA

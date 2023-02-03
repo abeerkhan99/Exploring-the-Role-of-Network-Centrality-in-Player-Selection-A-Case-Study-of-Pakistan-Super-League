@@ -1,0 +1,51 @@
+Player,Matches Played,Wickets,Status,Role,Closeness Centrality,Betweenness Centrality,Clustering Coefficient,Degree
+Abrar Ahmed,4,3,Eligible,Bowler,0.001512859,15.2502925,0.04819516,18
+Ahmed Daniyal,10,6,Eligible,Bowler,0.001730104,66.7734497,0.34387282,56
+Akif Javed,11,10,Eligible,Bowler,0.001636661,55.3991299,0.17068975,38
+Ali Majid,1,0,Eligible,Bowler,NA,NA,NA,NA
+Ali Shafiq,4,4,Eligible,Bowler,0.00147929,2.8382231,0.27229428,14
+Arish Ali,2,4,Eligible,Bowler,0.001519757,10.8099804,0.15578196,18
+Arshad Iqbal,17,19,Eligible,Bowler,0.001745201,78.8695543,0.31706627,60
+Ashir Qureshi,4,1,Eligible,Bowler,NA,NA,NA,NA
+Athar Mahmood,3,0,Eligible,Bowler,0.001333333,5.9041857,0,12
+Bilawal Bhatti,8,6,Eligible,Bowler,0.001564945,23.7939096,0.19966567,22
+Dilbar Hussain,11,14,Eligible,Bowler,0.00166113,63.9311402,0.21735804,42
+Ehsan Adil,5,7,Eligible,Bowler,0.001402525,11.1000917,0.10686213,8
+Ghulam Mudassar,11,11,Eligible,Bowler,0.001785714,632.3850681,0.14769915,82
+Haris Rauf,40,47,Eligible,Bowler,0.001956947,1151.662226,0.19678674,134
+Hasan Ali,64,81,Eligible,Bowler,0.002217295,4423.499451,0.15568352,238
+Hassan Khan,28,16,Eligible,Bowler,0.001934236,625.5266583,0.21869258,122
+Ibtisam Sheikh,8,9,Eligible,Bowler,0.001631321,25.7129372,0.26663731,32
+Imran Khan (1),3,3,Eligible,Bowler,0.001533742,15.7491132,0.23728941,20
+Imran Khan (2),10,12,Eligible,Bowler,0.001672241,101.6616132,0.19965976,50
+Khurram Shahzad,7,12,Eligible,Bowler,0.001677852,119.8472906,0.22199336,40
+Maaz Khan,3,2,Eligible,Bowler,0.001508296,4.0203719,0.22682053,18
+Mir Hamza,12,12,Eligible,Bowler,0.00174216,123.7060708,0.3240133,52
+Mohammad Abbas,3,5,Eligible,Bowler,0.001526718,59.3222117,0.1367547,18
+Abbas Afridi,9,7,Eligible,Bowler,0.001615509,67.982533,0.19811436,30
+Mohammad Amir Khan,4,3,Eligible,Bowler,0.001623377,14.3515825,0.2636511,28
+Mohammad Asghar,21,21,Eligible,Bowler,0.001666667,144.8510146,0.23511859,58
+Mohammad Hasnain,28,39,Eligible,Bowler,0.001883239,999.5048612,0.23423663,106
+Mohammad Ilyas,25,26,Eligible,Bowler,0.001845018,495.0835548,0.27219852,82
+Mohammad Irfan (5),2,0,Eligible,Bowler,0.001342282,0,1,4
+Mohammad Irfan,53,45,Eligible,Bowler,0.001980198,1180.660648,0.17033465,144
+Salman Mirza,3,2,Eligible,Bowler,0.001455604,0.8604243,0.29781342,10
+Mohammad Umar,8,7,Eligible,Bowler,0.001351351,0.3154341,0.43162753,8
+Muhammad Musa,19,19,Eligible,Bowler,0.001821494,442.1100672,0.21368036,78
+Naseem Shah,19,19,Eligible,Bowler,0.001845018,597.4772633,0.24383662,102
+Raja Farzan,2,2,Eligible,Bowler,0.001488095,2.842378,0.25931152,12
+Rumman Raees,38,37,Eligible,Bowler,0.001945525,1282.036935,0.17944022,124
+Salman Irshad,16,23,Eligible,Bowler,0.001760563,92.3331055,0.26874218,60
+Shaheen Shah Afridi,50,70,Eligible,Bowler,0.00209205,2134.657865,0.19165612,190
+Shahnawaz Dhani,22,37,Eligible,Bowler,0.00174216,462.721882,0.11315427,76
+Sohaibullah,1,0,Eligible,Bowler,NA,NA,NA,NA
+Umer Khan,17,19,Eligible,Bowler,0.001712329,62.4318551,0.23616462,50
+Usama Mir,20,18,Eligible,Bowler,0.001751313,123.478003,0.28126049,64
+Usman Qadir,12,13,Eligible,Bowler,0.001572327,52.5758111,0.20308456,32
+Wahab Riaz,77,103,Eligible,Bowler,0.002257336,3981.626503,0.1820777,252
+Waqas Maqsood,20,27,Eligible,Bowler,0.001814882,392.5651985,0.17771292,88
+Yasir Shah,27,26,Eligible,Bowler,0.001834862,172.0487059,0.35320494,82
+Zafar Gohar,17,18,Eligible,Bowler,0.001706485,14.5967611,0.44544252,40
+Zahid Mahmood,9,7,Eligible,Bowler,0.001642036,134.9252864,0.24612132,34
+Zaman Khan,13,18,Eligible,Bowler,0.001658375,62.5181202,0.23513906,44
+Zia-ul-Haq,3,3,Eligible,Bowler,NA,NA,NA,NA
